@@ -2,8 +2,8 @@
 layout: post
 title: How to Create a Content Style Guide for Your Business
 date: 2019-07-20 01:00:00 +0300
-description: UX writing and content design focus on the story and copy that make products feel more human...
-img: uxwritingandcontentdesign.jpg # Add image post (optional)
+description: No matter what your business is, you will likely be communicating with the public in some form, and will need a content style guide...
+img: CreateAContentStyleGuide.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [content marketing, content style guide, branding]
 ---
@@ -97,11 +97,11 @@ Here, I filled it out for one of my previous clients, a FinTech company focused 
 According to the gurus at [Straight Marketing](https://www.straightmarketing.co.uk/2016/02/what-is-your-brand-personality){:target="_blank"}:
 
 > **“Mainly towards the left?**
-Your business is modern/contemporary, fast-moving and innovative. You are always adapting, in touch with what your customers want from you and more risk taking. Your brand is accessible to a wide audience.
-Warm and vibrant colours are more akin to your brand’s personality. Your communication style should be friendly and approachable.
-**Mainly towards the right?**
-Your company is traditional, slow-moving and more corporate. Your product/service is more exclusive and your target market might be more high-end.
-Traditional, safer colours such as blue and green are most appropriate for more traditional brands, Your communication style should be professional and authoritative.”
+> Your business is modern/contemporary, fast-moving and innovative. You are always adapting, in touch with what your customers want from you and more risk taking. Your brand is accessible to a wide audience.
+> Warm and vibrant colours are more akin to your brand’s personality. Your communication style should be friendly and approachable.
+> **Mainly towards the right?**
+> Your company is traditional, slow-moving and more corporate. Your product/service is more exclusive and your target market might be more high-end.
+> Traditional, safer colours such as blue and green are most appropriate for more traditional brands, Your communication style should be professional and authoritative.”
 
 Again, this is just a simple place to start that you can build off of for your brand persona.
 
