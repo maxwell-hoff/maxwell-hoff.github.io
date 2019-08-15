@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Be Your Own Designer: Building Your Company's Brand on a Budget
-date: 2019-03-25 00:00:00 +0300
+date: 2019-03-25 01:00:00 +0300
 description: No matter what your business is, you will likely be communicating with the public in some form, and will need a content style guide...
-img: CreateAContentStyleGuide.jpg # Add image post (optional)
+img: beyourowndesigner.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [design, graphic design, DIY, branding]
 ---
