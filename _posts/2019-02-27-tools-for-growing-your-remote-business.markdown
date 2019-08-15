@@ -3,7 +3,7 @@ layout: post
 title: 8 Tools for Growing Your Remote Business
 date: 2019-02-27 01:00:00 +0300
 description: The future of work and business is here, and it’s remote. # Add post description (optional)
-img: toolsforremotework.jpg # Add image post (optional)
+img: besttoolsforremotework.jpg # Add image post (optional)
 tags: [remote, remote work, tools, task management, project management, entrepreneurship] # add tag
 ---
 **The future of work and business is here, and it’s remote.**
