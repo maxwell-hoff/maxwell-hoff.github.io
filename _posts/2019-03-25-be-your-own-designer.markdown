@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Be Your Own Designer: Building Your Company's Brand on a Budget
-date: 2019-03-25 01:00:00 +0300
+title: How to Create a Content Style Guide for Your Business
+date: 2019-07-20 01:00:00 +0300
 description: No matter what your business is, you will likely be communicating with the public in some form, and will need a content style guide...
-img: beyourowndesigner.png # Add image post (optional)
+img: CreateAContentStyleGuide.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [design, graphic design, DIY, branding]
+tags: [content marketing, content style guide, branding]
 ---
 One of the first, and perhaps most exciting, things about starting a new company or project is building your brand.
 It doesn’t matter what you’re offering — if you’re presenting something to the public or investors, your brand image can make or break your ability to generate sales or be taken seriously.
