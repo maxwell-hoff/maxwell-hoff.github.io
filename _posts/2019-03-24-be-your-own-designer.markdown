@@ -133,29 +133,62 @@ Personally, when it was time to get a logo for my company, I opted to work with 
 
 ## Professional Logo
 
-My company, Sea Foam Media & Technology, designed professionally by Hanna Dekker.
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/seafoam_mediaandtechnology_logo_color_square_rgb (1).png">
+</p>
+
+My company, Sea Foam Media & Tech, designed professionally by Hanna Dekker.
+
 ## DIY Logo
 
-My second company, DLT.dev. Logo made by me in Logo Maker Shop on my iPad Pro.
-When using a template-based tool, you’ll want to customize it as much as possible to create a unique brand identity and convey professionalism. Also, practice on a few logo templates and generate some options before deciding on one. I also suggest not relying too much on the stock iconography that is available. Use it tastefully, and modify it when you see fit — I rotated the “nodes” icon I chose, above.
-Logo Making Tools
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/dltdevlogo.jpg">
+</p>
+
+My second company, [DLT.dev](https://dlt.dev){:target="_blank"}. Logo made by me in [Logo Maker Shop](https://itunes.apple.com/us/app/logo-maker-shop/id1190077343){:target="_blank"} on my iPad Pro.
+
+When using a template-based tool, you’ll want to customize it as much as possible to create a unique brand identity and convey professionalism. Also, practice on a few logo templates and generate some options before deciding on one. I also suggest not relying too much on the stock iconography that is available. Use it tastefully, and modify it when you see fit--I rotated the “nodes” icon I chose, above.
+
+## Logo Making Tools
 Here are some of the best logo generating tools on the market:
-Canva: The most popular tool for DIY logos, Canva offers a suite of templates and drag-and-drop tools for logos, business cards, flyers, and more. It’s marketed toward non-designers and experts alike, although I personally don’t know any professional designers who use it. They offer both free and premium (paid) templates.
 
-Source: WebsiteSetup.com / Canva
-Logo Maker Shop: I personally used Logo Maker Shop for the DLT.dev logo (as a placeholder for a few months until we get a professional logo designed) as well as for a few other projects. I played with it for a few hours before deciding on a logo and really enjoyed experimenting and customizing the beautiful templates offered. They also have a great selection of iconography and backgrounds. It’s a mobile/tablet app, and free to use for three days, and $10/mo afterward.
+* [Canva](https://www.canva.com/){:target="_blank"}: The most popular tool for DIY logos, Canva offers a suite of templates and drag-and-drop tools for logos, business cards, flyers, and more. It’s marketed toward non-designers and experts alike, although I personally don’t know any professional designers who use it. They offer both free and premium (paid) templates.
 
-Source: LogoMakerShop.com
-Designing Your Own Website
-Designing your own website is perhaps the most reasonable thing to DIY. With so many template-based and drag-and-drop website tools out there, it’s become more of the norm to do it yourself rather than hiring a professional website designer. However, if you don’t have the best eye for design, a good feel for it, or the time to invest, it’s never a bad idea to get a professional to help out.
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/Canva-640x371.jpg">
+*Source: WebsiteSetup.com / Canva*
+</p>
+
+* [Logo Maker Shop](https://www.logomakershop.com/){:target="_blank"}: I personally used Logo Maker Shop for the DLT.dev logo (as a placeholder for a few months until we get a professional logo designed) as well as for a few other projects. I played with it for a few hours before deciding on a logo and really enjoyed experimenting and customizing the beautiful templates offered. They also have a great selection of iconography and backgrounds. It’s a mobile/tablet app, and free to use for three days, and $10/mo afterward.
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/logomakershop.png">
+*Source: LogoMakerShop.com*
+</p>
+
+# Building Your Own Website
+
+Building your own website is perhaps the most reasonable thing to DIY. With so many template-based and drag-and-drop website tools out there, it has become more of the norm to do it yourself rather than hiring a professional website designer. However, if you don’t have the best eye for design, a good feel for it, or the time to invest, it’s never a bad idea to get a professional to help out.
+
 For those who want to go the DIY route, here are some of my favorite tools, and some recommended by friends and colleagues:
-Squarespace: This one is kind of a given, and I actually wrote about it in my previous blog post. Squarespace offers a lot of nice templates to choose from that can be customized to create sleek professional websites, portfolio pages, and blogs. That said, it tends to be expensive, and I’ve sometimes found it frustrating getting the customizations just right. However, it has served me well for my main business site, seafoam.media, although I’m keen to try newer website design offerings as well…
-WebFlow: This was introduced to me recently by a colleague who used it to build several impressive landing pages. It claims to provide “the power to design, build, and launch responsive websites visually while writing clean, semantic code for you” and users can get started with free templates. It also has a great CMS similar to Medium for creating beautiful blogs. My colleague used it to create his site RideWithSurf.com, which he reports took him about 16 hours end-to-end, and that “learning was cake” with its visual builder. Personally, I can’t wait to try it. Here is a great video that demonstrates its power:
 
-Figma: Figma is another drag-and-drop design tool that allows you to build responsive website designs. You can export them as HTML/CSS or use their easy hosting tool. It is free to use for teams of up to two people and also offers premium options. While Figma seems a lot like WebFlow, it is specifically geared for design collaboration amongst teams and with clients, and beyond websites, you can also use it for designing, prototyping, and testing UI for apps. Because it is browser-based software that is so versatile and collaborative, it’s been called the “Google Drive of design tools.” Before you get started, check out a few tutorials to set yourself up for success:
+* [Squarespace](https://squarespace.com){:target="_blank"}: This one is kind of a given, and I actually wrote about it in my [previous blog post](https://medium.com/the-new-distributed-workforce/8-tools-for-growing-your-remote-business-76b8d7530c07){:target="_blank"}. Squarespace offers a lot of nice templates to choose from that can be customized to create sleek professional websites, portfolio pages, and blogs. That said, it tends to be expensive, and I’ve sometimes found it frustrating getting the customizations just right. However, it has served me well for my business site, seafoam.media, although I’m keen to try newer website design tools as well…
+* [WebFlow](https://webflow.com/){:target="_blank"}: This was introduced to me recently by a colleague who used it to build several impressive landing pages. It claims to provide “the power to design, build, and launch responsive websites visually while writing clean, semantic code for you” and users can get started with free templates. It also has a great CMS similar to Medium for creating beautiful blogs. My colleague used it to create his site [RideWithSurf.com](https://ridewithsurf.com/){:target="_blank"}, which he reports took him about 16 hours end-to-end, and that “learning was cake” with its visual builder. Personally, I can’t wait to try it. Here is a great video that demonstrates its power:
 
-Decks, Infographics, Social Assets, and More…
-Finally, I’d like to get to what inspired me to create this post — creating slide decks for new projects, as well as infographics for my company, Sea Foam.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yiPJ3r7Xy1Y
+" target="_blank"><img src="http://img.youtube.com/vi/yiPJ3r7Xy1Y/0.jpg" 
+alt="WebFlow Demo" border="10" /></a>
+
+* [Figma](https://figma.com){:target="_blank"}: Figma is another drag-and-drop design tool that allows you to build responsive website designs. You can export them as HTML/CSS or use their easy hosting tool. It is free to use for teams of up to two people and also offers premium options. While Figma seems a lot like WebFlow, it is specifically geared for design **collaboration** amongst teams and with clients, and beyond websites, you can also use it for designing, prototyping, and testing UI for apps. Because it is browser-based software that is so versatile and collaborative, it’s been called the “Google Drive of design tools.” Before you get started, check out a few tutorials to set yourself up for success:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jk1T0CdLxwU
+" target="_blank"><img src="http://img.youtube.com/vi/jk1T0CdLxwU/0.jpg" 
+alt="Figma Demo" border="10" /></a>
+
+# Decks, Infographics, Social Assets, and More…
+
+Finally, I’d like to get to what inspired me to create this post--creating slide decks for new projects, as well as infographics for my company.
+
 Slide deck presentations are necessary when presenting new ideas to investors. While you can put together decent decks in Powerpoint or Google Slides, a sleek, high-end presentation can increase your ability to be taken seriously and earn funding.
 When I was searching for a slide deck builder tool with royalty-free images to use, I came across Visme:
 
