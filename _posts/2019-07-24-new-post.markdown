@@ -9,7 +9,7 @@ tags: [UX, UX writing, content design]
 ---
 No matter what your business is, you will likely be communicating with the public in some form, whether that’s through your website content, product flows, press releases, social media posts, or when doing sales.
 
-In one of my previous posts, I discussed how to [“Be Your Own Designer”](https://medium.com/the-new-distributed-workforce/be-your-own-designer-building-your-companys-brand-on-a-budget-6d64a10643dc){:target=_blank} and build a style guide for your company’s brand identity on the design side. While having strong, consistent design is important, your company’s messaging is just as much so.
+In one of my previous posts, I discussed how to [“Be Your Own Designer”](https://medium.com/the-new-distributed-workforce/be-your-own-designer-building-your-companys-brand-on-a-budget-6d64a10643dc){:target="_blank"} and build a style guide for your company’s brand identity on the design side. While having strong, consistent design is important, your company’s messaging is just as much so.
 
 Understanding who you are as a business, what values you stand for, and setting internal standards for communication is an essential part of running your business, especially when you are part of a remote, distributed team. For a new business, creating a content style guide early on can save a lot of time and headaches, especially as you scale your team and have more people representing the company. And for more mature businesses, if you don’t have one already, now is the time to focus on further developing your brand strategy and processes with your content style guide.
 
