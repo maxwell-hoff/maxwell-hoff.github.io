@@ -5,63 +5,110 @@ date: 2019-07-20 01:00:00 +0300
 description: UX writing and content design focus on the story and copy that make products feel more human...
 img: uxwritingandcontentdesign.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [UX, UX writing, content design]
+tags: [content marketing, content style guide, branding]
 ---
 No matter what your business is, you will likely be communicating with the public in some form, whether that’s through your website content, product flows, press releases, social media posts, or when doing sales.
 
-In one of my previous posts, I discussed how to [“Be Your Own Designer”](https://medium.com/the-new-distributed-workforce/be-your-own-designer-building-your-companys-brand-on-a-budget-6d64a10643dc){:target="_blank"} and build a style guide for your company’s brand identity on the design side. While having strong, consistent design is important, your company’s messaging is just as much so.
+In one of my previous posts, I discussed how to "[Be Your Own Designer](https://medium.com/the-new-distributed-workforce/be-your-own-designer-building-your-companys-brand-on-a-budget-6d64a10643dc){:target="_blank"}" and build a style guide for your company’s brand identity on the design side. While having strong, consistent design is important, **your company’s messaging is just as much so.**
 
 Understanding who you are as a business, what values you stand for, and setting internal standards for communication is an essential part of running your business, especially when you are part of a remote, distributed team. For a new business, creating a content style guide early on can save a lot of time and headaches, especially as you scale your team and have more people representing the company. And for more mature businesses, if you don’t have one already, now is the time to focus on further developing your brand strategy and processes with your content style guide.
 
-*This blog was originally posted on [Medium](https://uxdesign.cc/understanding-ux-writing-content-design-79839ce1df2a){:target="_blank"}--be sure to follow and clap!*
+*This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/how-to-create-a-content-style-guide-for-your-business-781b85558e26){:target="_blank"}--be sure to follow and clap!*
 
-# Storytelling in Product Development
-As a writer, marketer, and product manager, I have always understood the need to tell a compelling story during the product development process. When I was working in Japan as the Director of Product for a SaaS app for the concierge teams at The Ritz-Carlton and Grand Hyatt, one of my first tasks was to gain a better understanding of the end-user (the hotel guest) and create real-world user stories to determine what features and workflows we would build into our MVP (Minimum Viable Product).
+# What is a Content Style Guide?
+A content style guide is a document that outlines a company’s brand voice and persona, tone, audience, formatting guidelines, and overall editorial standards. It is the go-to resource for anyone who needs to create content for the business, from social posts to sales emails, and is the single point of truth for company communications, connecting the dots across all team members and departments.
 
-Like all good user stories, what we came up with was simple: a guest arrives in Tokyo for business and wants to buy a new handbag or briefcase. Using our product, PINSTOP, the concierge at the Ritz could create a custom, multi-point map feed with directions to the best shopping the city has to offer, like the Louis Vuitton and Coach concept stores in the Omotesando district. The concierge could then print out and send the guest an SMS with a link to their PINSTOP feed in the guest's own language and with Japanese addresses clearly displayed for cab drivers.
+## Why it's Important
+1. **Consistency.** All company content should be created with a unified voice and with the same goals in mind. Even if you are just one person representing your business, consistency in communication across all customer touchpoints is crucial. A simple, well-articulated, consistent message is the easiest way for even the smallest startups to build a brand that feels like a billion bucks. Having a cohesive content experience also helps build consumer trust.
+
+2. **Time.** Creating content can be time-consuming, especially for team members who aren’t confident writers. With a content style guide, you and your team can pull from pre-generated blurbs that describe your business, find content that fills in the gaps for repetitive work related to things like the sales workflow or UI, or find inspiration for more original content related to the company mission. Having documentation like this on hand also makes it easier to bring on new hires and contractors and familiarize them with the company fast.
+
+3. **Brand Vision.** As you go through the exercise of creating your content style guide, you should learn more about your business through the process. There are a lot of things most people don’t think about when starting a company, like who is your audience, really? Is your brand more fun, or serious? Are you more personable, or corporate? What values define your reasons for doing what you do? Consciously thinking about these questions will force you to better define your brand and will change the way you see and act on behalf of the business moving forward, while also helping you better position yourself in your market.
+
+So let’s get started!
+
+# Creating Your Content Style Guide
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/content-style-guide.jpg">
+</p>
+*Source: vtldesign.com*
+
+While a content style guide can mean different things to different companies and can include a variety of different elements, I will be covering what I believe are the core must-haves, particularly for tech startups like the ones I work for through my agency.
+
+The template I start off with for my clients typically includes:
+
+* What We Do
+* Mission
+* Boilerplate Message
+* Market Differentiators
+* Audience & Personas
+* Brand Voice & Persona
+* Tone
+* Content Principles
+* Calls to Action
+* Terms (Defined)
+* Word Choice
+* Grammar
+* Elevator Pitch (important for companies raising money)
+* UI Copy Guidelines (important for products)
+
+To get started, you can use this list as headers and add in sections that are specifically important to your business. I will go into each in more detail:
+
+## What We Do
+Fairly straightforward — in practical terms, what does the company do? What is the key value prop? You should be able to keep this to a paragraph in length. This is content that can be reused repeatedly, such as by people on the sales team. It also preps the reader for the rest of the document, which is important if they are new to the team.
+
+## Mission
+From a high level, what is the company’s mission? What problem are you solving? This goes beyond “what” you do and enters the realm of “why” you do it. Understanding the company mission is, perhaps, the single most important part of any overall brand strategy.
+
+## Market Differentiators
+What separates the company from competitors in the market? I like to create a short bullet point list here with the things that make the company unique and important.
+
+*These first three sections all go into clarifying your brand on a high level.*
+
+## Boilerplate Message
+This is a paragraph that can be reused over and over again, typically for things like the blurb underneath company press releases. It should combine the “what” with the “why” and let people know where the business is at, what the goals are, and how they can find out more or get involved. For tips on how to write a killer boilerplate message, [check out this guide from Cision](https://www.cision.com/us/2017/12/press-release-boilerplate-examples/){:target="_blank"}. You can also create multiple boilerplate messages for different purposes, i.e. fundraising versus user acquisition.
+
+## Audience (Can Include Personas)
+When creating content for the company, it is vital to understand who are you speaking to. Who is your target audience? The answer to this question should be driven by both demographic (A/S/L) and psychographic (hopes and dreams, pain points) data based on the people you are currently engaging and those you hope to engage in relation to the business. This should also play into a larger market research campaign for the business.
+
+It is possible you may need to speak to different audiences. For example, you may have different tiers of users. B2B SaaS products often categorize users into groups that will use different versions of the product, like “Individual,” “Business,” and “Enterprise.” Your users also may not be the same audience as the people you are soliciting investment from. However, across all audiences and touchpoints, the company mission must ring true and the brand voice must remain consistent.
+
+I highly recommend building out distinct audience personas. According to Carly at [Keystone Virtual](https://keystonevirtual.com/what-is-an-audience-persona/){:target="_blank"}:
+
+> “An audience persona is a fictional character (based on real data and market research) who represents a segment of a target audience. Developing an audience persona is a method marketers and content creators use to help them implement solid marketing strategies and create better content. By presenting the research they’ve conducted on their audience in a way that brings that audience to life, creators and marketers are better able to understand who they’re targeting. The idea is that when you can identify a real person to create content (or services and products) for, you’ll do a much better job of meeting their needs. Most businesses develop several audience personas to represent the different types of customers that fall within their target audience.”
+
+This exercise is key when developing a product, but also important when considering how you are speaking to your target audience(s).
+
+## Brand Voice & Persona
+When developing a brand voice and persona, the goal is to humanize the company.
+
+I love things that are visual, and this Brand Personality Spectrum exercise is a great place to start when considering what personality traits the brand should embody:
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/img/pinstop mockups.png">
+  <img src="{{site.baseurl}}/assets/img/brand personality spectrum.jpg">
 </p>
 
-The exercise of developing user stories is nothing new for product managers, as it has always been a fundamental part of creating a great overall user experience. However, **the *copy* that guides the user through the product is an often overlooked yet crucial part of this experience.** In this case, it was the text we wrote into the product to help the concierge provide a 5-star guest experience as efficiently as possible, while ultimately helping the guest make the most of their time in Japan.
-
-# Enter: The UX Writer
-<p align="center">
-  <img src="{{site.baseurl}}/assets/img/UX writing image.jpeg">
-</p>
-
-This is where a UX writer can come in to take a product to the next level. The UX writer's primary function is to craft the in-product copy in accordance with a clear and compelling narrative that works seamlessly within the product design. This includes button copy, success and error messages, confirmation emails, and every other piece of content in the app that guides a user from point A to point B.
-
-The UX writer should also champion or assist with tasks that were either left to product managers and designers in the past or simply not thought about on product teams at all, including market research, developing the brand voice, user interviews, usability testing, and more.
-
-**Ultimately, the UX writer is dedicated to creating a cohesive content experience that encompasses every user touchpoint within the product.** When done right, this content should make the user experience more engaging, conversational, and *human.*
-
-This is distinctly different from content marketing and copywriting that generates leads and creates brand awareness in the market, which should not be confused with creating a user experience for a product. For any company building a product, it makes sense to carve out a dedicated role for this kind of expertise.
-
-# UX Writer, or Content Designer?
-If you've seen the term "UX writer" previously, you have probably seen its sister, "content designer." There has been some ambiguity and dissent in the product world regarding the difference between the two, and you can often see them used interchangeably. This, again, is a testament to just how new these roles are within most organizations.
-
-The general consensus seems to be that the "content designer" is a more high-level, strategic role with a larger impact on the product, while the "UX writer" might be strictly focused on writing copy. In my opinion, the term that is used is less important than what the role actually means for the specific project.
-
-# The Future of UX Writing & Content Design
-As we look to the future of consumer tech products, the importance and opportunities in UX writing and content design are only set to rise with the rapid growth of conversational AI.
-
-According to [Georgian Partners](https://georgianpartners.com/investment-thesis-areas/overview-conversational-ai/){:target="_blank"}, Conversational AI is "the use of messaging apps, speech-based assistants and chatbots to automate communication and create personalized customer experiences at scale."
-
-Consumers today are already used to engaging with voice interfaces like Siri, Alexa, and Google Home in their day-to-day lives, and [15%](https://www.convinceandconvert.com/digital-marketing/6-critical-chatbot-statistics-for-2018/){:target="_blank"} of American adults say they have interacted with a chatbot at least once, while [40%](https://acquire.io/blog/chatbots-trends/){:target="_blank"} of millennials say they engage with chatbots daily.
+Here, I filled it out for one of my previous clients, a FinTech company focused on tokenized securities, which straddles the line a bit in being a high-tech product yet having more of an established “Wall Street” feel:
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/img/alexa skip to friday.jpeg">
+  <img src="{{site.baseurl}}/assets/img/brandpersonalityfilledout.png">
 </p>
 
-These interactive content experiences rely on sophisticated content design, with interfaces that not only answer user questions but provide feedback to the user and help them navigate complex systems. This gives rise to the role of ["conversational designer,"](https://uxdesign.cc/the-conversational-designers-guide-to-ai-assistants-by-ruben-babu-6aa45de578f0){:target="_blank"} focused on designing content that makes robots seem human.
+According to the gurus at [Straight Marketing](https://www.straightmarketing.co.uk/2016/02/what-is-your-brand-personality){:target="_blank"}:
 
-# Becoming a UX Writer
-According to [Anastasiia Marushevska](https://uxdesign.cc/how-to-build-a-better-product-with-ux-writing-926d78209ce8){:target="_blank"}, Head of Communication at DjangoStars.com, "The skillset of the UX writer includes a) UX design and usability, b) wireframing, and c) interfaces. It's also helpful to know the essentials of behavioral psychology and decision-making."
+> **“Mainly towards the left?**
+Your business is modern/contemporary, fast-moving and innovative. You are always adapting, in touch with what your customers want from you and more risk taking. Your brand is accessible to a wide audience.
+Warm and vibrant colours are more akin to your brand’s personality. Your communication style should be friendly and approachable.
+**Mainly towards the right?**
+Your company is traditional, slow-moving and more corporate. Your product/service is more exclusive and your target market might be more high-end.
+Traditional, safer colours such as blue and green are most appropriate for more traditional brands, Your communication style should be professional and authoritative.”
 
-So, can someone with experience with the product development process and more general content strategy become a good UX writer? Yes! This type of role is relatively new, and the world of UX is constantly evolving, providing lots of room for clever writers to not only grow into this space but help define it.
+Again, this is just a simple place to start that you can build off of for your brand persona.
 
-There are lots of great resources out there for learning the technical ins-and-outs of UX writing and content design. I enjoy the [Writers of Silicon Valley](https://www.writersofsiliconvalley.com/){:target="_blank"} podcast hosted by Patrick Stafford, who also offers a full course on UX writing called the [UX Writers Collective](https://uxwriterscollective.com/){:target="_blank"} (I have not taken it myself, but heard good things).
+*(This Brand Personality Spectrum graphic is used across many different channels discussing content marketing and branding, and I’m not sure where it originated. If you know, feel free to leave a comment so I can provide better credit!)*
 
-*This blog was originally posted on [Medium](https://uxdesign.cc/understanding-ux-writing-content-design-79839ce1df2a){:target="_blank"}--be sure to follow and clap!*
+When you have completed this, you should list around five specific personality characteristics of the brand voice, i.e. expert, sincere, empathetic, and can also include characteristics that the brand is NOT, i.e. exclusive, aggressive.
+
+To go further, you can create a fictional character for the brand, similar to the audience persona exercise, where you create a clearly defined identity including characteristics like age, location, hopes, dreams, etc. You can give the brand character a name and even create a cartoon or find a photo that further illustrates the person speaking behind the brand. No matter who is creating content for the company, that content must be in line with the voice of the brand character. If you have a team, it would be good to get stakeholders engaged in this exercise over a whiteboarding session.
+
+*This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/how-to-create-a-content-style-guide-for-your-business-781b85558e26){:target="_blank"}--be sure to follow and clap!*
