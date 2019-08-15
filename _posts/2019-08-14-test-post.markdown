@@ -26,6 +26,9 @@ The exercise of developing user stories is nothing new for product managers, as 
 
 # Enter: The UX Writer
 <p align="center">
+  <img src="{{site.baseurl}}/assets/img/UX writing image.jpeg">
+</p>
+<p align="center">
 ![UX Writing and Content Design]({{site.baseurl}}/assets/img/UX writing image.jpeg)
 </p>
 
