@@ -31,7 +31,7 @@ Before you start designing anything, I recommend going through the brand identit
 
 2. **Purpose--** What is the fundamental purpose behind your business that inspires everyone in and outside of the organization to do what they do — and love doing it?
 
-3. **Company Core Values—-** What principles are going to shape your company’s culture and support your brand vision?
+3. **Company Core Values--** What principles are going to shape your company’s culture and support your brand vision?
 
 4. **Personality and Voice--** How do you present yourself? Do you have a sense of humor or are you honest to a fault? Are you a casual brand or a “suit and tie” mentality?
 
@@ -55,9 +55,9 @@ Consider each question and answer as best you can — it’s not a test, no one 
 Also, I know [The Golden Circle TED Talk](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action){:target="_blank"} gets shared a lot, but it has stuck firmly in my mind since I first watched it in 2015 and it would be remiss of me not to share it for anyone thinking about their brand, sales strategy, finding investment, or basically anything related to their business. It is a classic for a reason. If you haven’t seen it, get ready to feel inspired.
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/img/content-style-guide.jpg">
-*Source: SmartInsights.*
+  <img src="{{site.baseurl}}/assets/img/thegoldencircle.png.jpg">
 </p>
+*Source: SmartInsights.*
 
 TLDR-—while most companies consider their brand from the outside-in, The Golden Circle encourages entrepreneurs to think from the inside-out. The WHY comes before the WHAT. The classic Apple ads are a great example of this.
 
@@ -82,8 +82,8 @@ A strong palette includes a balanced mix of light, medium, and dark tones, regar
 
 <p align="center">
   <img src="{{site.baseurl}}/assets/img/brand color palette.png">
-*Source: Elle & Co.*
 </p>
+*Source: Elle & Co.*
 
 That’s the TLDR--but go read Lauren’s post for yourself!
 
@@ -95,7 +95,7 @@ One fun, free color palette generator is [Coolors.co](http://coolors.co/){:targe
   <img src="{{site.baseurl}}/assets/img/Screen Shot 2019-03-24 at 12.04.03 PM.png">
 </p>
 
-Playing with Coolors.co--this palette was randomly generated. I like the use of blue, sea foam, and purple, something I may not have thought of before. I would adjust this further by creating a lighter, faded purple and more contrasting blues and greens.
+Playing with Coolors.co--this palette was randomly generated. I like the use of blue, sea foam, and purple, something I may not have thought of before. I could adjust this further and use a lighter, faded purple instead.
 
 # Style Guide
 Once you have your brand colors nailed down, you can add them to your overall style guide.
@@ -110,15 +110,15 @@ Having a style guide will not only help you stay consistent with your brand asse
 
 <p align="center">
   <img src="{{site.baseurl}}/assets/img/uber brand guidelines.png">
-*Source: Uber*
 </p>
+*Source: Uber*
 
 A simple example, this portion of Uber’s style guide includes colors, badge, preferences for grid map interfaces, and other key design elements.
 
 <p align="center">
   <img src="{{site.baseurl}}/assets/img/ontraport2.jpg">
-*Source: OntraPort*
 </p>
+*Source: OntraPort*
 
 This is a more complex style guide from [OntraPort.com](https://ontraport.com){:target="_blank"}.
 
@@ -137,7 +137,7 @@ Personally, when it was time to get a logo for my company, I opted to work with 
   <img src="{{site.baseurl}}/assets/img/seafoam_mediaandtechnology_logo_color_square_rgb (1).png">
 </p>
 
-My company, Sea Foam Media & Tech, designed professionally by Hanna Dekker.
+The logo for my company, Sea Foam Media & Tech, designed professionally by Hanna Dekker.
 
 ## DIY Logo
 
