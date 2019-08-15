@@ -30,8 +30,8 @@ So let’s get started!
 # Creating Your Content Style Guide
 <p align="center">
   <img src="{{site.baseurl}}/assets/img/content-style-guide.jpg">
-</p>
 *Source: vtldesign.com*
+</p>
 
 While a content style guide can mean different things to different companies and can include a variety of different elements, I will be covering what I believe are the core must-haves, particularly for tech startups like the ones I work for through my agency.
 
@@ -99,6 +99,7 @@ According to the gurus at [Straight Marketing](https://www.straightmarketing.co.
 > **“Mainly towards the left?**
 > Your business is modern/contemporary, fast-moving and innovative. You are always adapting, in touch with what your customers want from you and more risk taking. Your brand is accessible to a wide audience.
 > Warm and vibrant colours are more akin to your brand’s personality. Your communication style should be friendly and approachable.
+
 > **Mainly towards the right?**
 > Your company is traditional, slow-moving and more corporate. Your product/service is more exclusive and your target market might be more high-end.
 > Traditional, safer colours such as blue and green are most appropriate for more traditional brands, Your communication style should be professional and authoritative.”
@@ -110,5 +111,57 @@ Again, this is just a simple place to start that you can build off of for your b
 When you have completed this, you should list around five specific personality characteristics of the brand voice, i.e. expert, sincere, empathetic, and can also include characteristics that the brand is NOT, i.e. exclusive, aggressive.
 
 To go further, you can create a fictional character for the brand, similar to the audience persona exercise, where you create a clearly defined identity including characteristics like age, location, hopes, dreams, etc. You can give the brand character a name and even create a cartoon or find a photo that further illustrates the person speaking behind the brand. No matter who is creating content for the company, that content must be in line with the voice of the brand character. If you have a team, it would be good to get stakeholders engaged in this exercise over a whiteboarding session.
+
+## Tone
+Once you have established the company brand voice, you will need to consider tone, which is more dynamic depending on the kind of content you are creating and who you are speaking to and adds depth and range to the brand voice.
+
+[MailChimp's content style guide](https://styleguide.mailchimp.com/voice-and-tone/){:target="_blank"} has a great example of how to define a brand tone for a variety of situations:
+
+> "Mailchimp's tone is usually informal, but it's always more important to be clear than entertaining. When you're writing, consider the reader's state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+Mailchimp has a sense of humor, so feel free to be funny when it's appropriate and when it comes naturally to you. But don't go out of your way to make a joke - forced humor can be worse than none at all. If you're unsure, keep a straight face."
+
+## Content Principles
+What are the guiding principles, or goals, of the content the company will be creating? Having a set of clearly defined principles will ensure that all content works toward the same core objectives.
+
+I really like these examples of content principles used by [Morgan Marie Quinn from ServiceNow](https://blog.prototypr.io/how-to-create-a-content-style-guide-c04425909d4c){:target="_blank"}:
+
+> 1. Empower customers to make good decisions by giving them the right information, in the right format, and at the right time.
+
+> 2. Simplify the product experience by speaking in a straightforward and human way.
+
+> 3. Show respect for everyone by relating to them and honoring their whole selves.
+
+## Calls to Action
+This is a list of approved calls to action to use for things like social posts, email copy, and landing page copy. These should create a sense of urgency while conveying the benefits of what the company offers. You can list different calls to action for different channels or audiences based on what you have seen convert best.
+
+## Terms
+This section should include a list of industry-specific terms that will be used throughout your content. For example, I have worked with lots of clients in the blockchain industry and might list terms like “blockchain,” “security token,” “utility token,” etc., along with the working definitions that the company agrees with.
+
+## Word Choice
+Having a section on word choice can be powerful for high-tech companies that use a lot of language and buzzwords that might be confusing or alienating to a general audience. For example, instead of “blockchain,” you could say “distributed system” to more clearly convey what your company offers.
+
+## Grammar
+This section can contain rules for formatting (such as spacing and use of headers), capitalization (like whether or not to capitalize all words in a blog headline or email subject line), or what external style guidelines to follow, like the AP Stylebook.
+
+## Elevator Pitch*
+If the company plans on raising money, I like to include a written elevator pitch in the content style guide. This is content that can be spoken in under 30 seconds when introducing the company to someone. Having your elevator pitch down is crucial for any startup, and your team should all be on the same page since they will be representing the company in their day-to-day lives and across their networks as well. This content can also be synthesized for things like pitch decks and videos. For help with your elevator pitch, check out this blog and video from [Matt Ward at ThinkGrowth.org](https://medium.com/@mattwardio/the-memorable-elevator-pitch-that-vcs-cant-ignore-7ffc313dbf40){:target="_blank"}.
+
+## UI Copy Guidelines*
+If you are building a product, creating guidelines for UI copy and UX content is critical. This content will help guide users within the product to help them achieve their goals in a streamlined manner. Depending on the company, these guidelines may require their own distinct document, and to really go into this would be a blog post in and of itself.
+
+*[Read my blog post on UX writing and content design.](https://uxdesign.cc/understanding-ux-writing-content-design-79839ce1df2a){:target="_blank"}*
+
+# Evangelizing Your Content Style Guide
+<p align="center">
+  <img src="{{site.baseurl}}/assets/img/evangelizing your content style guide.jpg">
+</p>
+
+Once you have created your content style guide and gotten feedback from all necessary stakeholders within the company, you will need to evangelize it throughout the organization, across all teams and contractors who work on behalf of the company. This goes beyond just distributing it in a shared doc or CCing all. Plan an organization-wide meeting to go over the materials and give room for suggestions and questions. If you are part of a larger organization, plan a meeting to educate department leads on the content style guide, and give them guidance on how to train their teams.
+
+Also remember that your content style guide is a living, breathing document, and as the company and brand evolves, your style guide should too! Alert teams to important changes as they happen.
+
+Evangelizing your content style guide is something I will cover in more detail in a subsequent blog post (will update here when published) and in my book, “The New Distributed Workforce,” which will be published in 2020.
+
+What is most important to you when creating a content style guide? Do you find having this documentation to be critical when leading a distributed team? Share with me and let’s chat!
 
 *This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/how-to-create-a-content-style-guide-for-your-business-781b85558e26){:target="_blank"}--be sure to follow and clap!*
