@@ -19,7 +19,7 @@ As a writer, marketer, and product manager, I have always understood the need to
 Like all good user stories, what we came up with was simple: a guest arrives in Tokyo for business and wants to buy a new handbag or briefcase. Using our product, PINSTOP, the concierge at the Ritz could create a custom, multi-point map feed with directions to the best shopping the city has to offer, like the Louis Vuitton and Coach concept stores in the Omotesando district. The concierge could then print out and send the guest an SMS with a link to their PINSTOP feed in the guest's own language and with Japanese addresses clearly displayed for cab drivers.
 
 <p align="center">
-![PINSTOP Mockups, 2017]({{site.baseurl}}/assets/img/pinstop mockups.png)
+  <img src="{{site.baseurl}}/assets/img/pinstop mockups.png">
 </p>
 
 The exercise of developing user stories is nothing new for product managers, as it has always been a fundamental part of creating a great overall user experience. However, **the *copy* that guides the user through the product is an often overlooked yet crucial part of this experience.** In this case, it was the text we wrote into the product to help the concierge provide a 5-star guest experience as efficiently as possible, while ultimately helping the guest make the most of their time in Japan.
@@ -27,9 +27,6 @@ The exercise of developing user stories is nothing new for product managers, as 
 # Enter: The UX Writer
 <p align="center">
   <img src="{{site.baseurl}}/assets/img/UX writing image.jpeg">
-</p>
-<p align="center">
-![UX Writing and Content Design]({{site.baseurl}}/assets/img/UX writing image.jpeg)
 </p>
 
 This is where a UX writer can come in to take a product to the next level. The UX writer's primary function is to craft the in-product copy in accordance with a clear and compelling narrative that works seamlessly within the product design. This includes button copy, success and error messages, confirmation emails, and every other piece of content in the app that guides a user from point A to point B.
@@ -53,7 +50,7 @@ According to [Georgian Partners](https://georgianpartners.com/investment-thesis-
 Consumers today are already used to engaging with voice interfaces like Siri, Alexa, and Google Home in their day-to-day lives, and [15%](https://www.convinceandconvert.com/digital-marketing/6-critical-chatbot-statistics-for-2018/){:target="_blank"} of American adults say they have interacted with a chatbot at least once, while [40%](https://acquire.io/blog/chatbots-trends/){:target="_blank"} of millennials say they engage with chatbots daily.
 
 <p align="center">
-![Conversational AI]({{site.baseurl}}/assets/img/alexa skip to friday.jpeg)
+  <img src="{{site.baseurl}}/assets/img/alexa skip to friday.jpeg">
 </p>
 
 These interactive content experiences rely on sophisticated content design, with interfaces that not only answer user questions but provide feedback to the user and help them navigate complex systems. This gives rise to the role of ["conversational designer,"](https://uxdesign.cc/the-conversational-designers-guide-to-ai-assistants-by-ruben-babu-6aa45de578f0){:target="_blank"} focused on designing content that makes robots seem human.
