@@ -126,10 +126,8 @@ What are the guiding principles, or goals, of the content the company will be cr
 I really like these examples of content principles used by [Morgan Marie Quinn from ServiceNow](https://blog.prototypr.io/how-to-create-a-content-style-guide-c04425909d4c){:target="_blank"}:
 
 > 1. Empower customers to make good decisions by giving them the right information, in the right format, and at the right time.
-
-> 2. Simplify the product experience by speaking in a straightforward and human way.
-
-> 3. Show respect for everyone by relating to them and honoring their whole selves.
+2. Simplify the product experience by speaking in a straightforward and human way.
+3. Show respect for everyone by relating to them and honoring their whole selves.
 
 ## Calls to Action
 This is a list of approved calls to action to use for things like social posts, email copy, and landing page copy. These should create a sense of urgency while conveying the benefits of what the company offers. You can list different calls to action for different channels or audiences based on what you have seen convert best.
