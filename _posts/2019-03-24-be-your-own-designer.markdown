@@ -2,11 +2,11 @@
 layout: post
 title: Be Your Own Designer: Building Your Company's Brand on a Budget
 date: 2019-03-25 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
-tags: [design, graphic design, DIY, branding] # add tag
+description: No matter what your business is, you will likely be communicating with the public in some form, and will need a content style guide...
+img: CreateAContentStyleGuide.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [design, graphic design, DIY, branding]
 ---
-
 One of the first, and perhaps most exciting, things about starting a new company or project is building your brand.
 It doesn’t matter what you’re offering — if you’re presenting something to the public or investors, your brand image can make or break your ability to generate sales or be taken seriously.
 
