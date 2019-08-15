@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Understanding “UX Writing” & “Content Design” 
-date: 2019-07-23 01:00:00 +0300
+title: How to Create a Content Style Guide for Your Business
+date: 2019-07-20 01:00:00 +0300
 description: UX writing and content design focus on the story and copy that make products feel more human...
 img: uxwritingandcontentdesign.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [UX, UX writing, content design]
 ---
-Product design, content strategy, and copywriting are clearly-defined skillsets and roles that have existed in companies since the beginning of the web, and there has been a growing appreciation for all of them over the past decade with the rise of "EQ" in Silicon Valley and the realization that creative expertise and understanding how to communicate with users is crucial to building a good product.
+No matter what your business is, you will likely be communicating with the public in some form, whether that’s through your website content, product flows, press releases, social media posts, or when doing sales.
 
-More recently, these skillsets have begun to collide and merge into the new, in-demand role of "UX writer," which is sometimes referred to as "UX copywriter" or "content designer." Top tech companies like Google, Facebook, and Amazon have been hiring for these roles for several years, and this movement has been trickling down to startups globally who want to better leverage the power of content and storytelling to connect with their users.
+In one of my previous posts, I discussed how to [“Be Your Own Designer”](https://medium.com/the-new-distributed-workforce/be-your-own-designer-building-your-companys-brand-on-a-budget-6d64a10643dc){:target=_blank} and build a style guide for your company’s brand identity on the design side. While having strong, consistent design is important, your company’s messaging is just as much so.
+
+Understanding who you are as a business, what values you stand for, and setting internal standards for communication is an essential part of running your business, especially when you are part of a remote, distributed team. For a new business, creating a content style guide early on can save a lot of time and headaches, especially as you scale your team and have more people representing the company. And for more mature businesses, if you don’t have one already, now is the time to focus on further developing your brand strategy and processes with your content style guide.
 
 *This blog was originally posted on [Medium](https://uxdesign.cc/understanding-ux-writing-content-design-79839ce1df2a){:target="_blank"}--be sure to follow and clap!*
 
