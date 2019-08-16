@@ -3,7 +3,7 @@ layout: post
 title: How I Built & Hosted a Website on My Domain for FREE (GitHub Pages + Jekyll Theme, NO CODING)
 date: 2019-08-15 05:00:00 +0300
 description: # Add post description (optional)
-img: besttoolsforremotework.jpg # Add image post (optional)
+img: githubpages.jpg # Add image post (optional)
 tags: [github, github pages, web development, website, web design] # add tag
 ---
 I’ve owned my domain Rhiannon.io for a year now. When I got the renewal notice last week, I sighed, realizing I had yet to do anything with it.
