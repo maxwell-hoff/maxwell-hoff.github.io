@@ -166,52 +166,62 @@ Here are some of the best logo generating tools on the market:
 *Source: LogoMakerShop.com*
 </p>
 
-# Building Your Own Website
+# Designing Your Own Website
 
-Building your own website is perhaps the most reasonable thing to DIY. With so many template-based and drag-and-drop website tools out there, it has become more of the norm to do it yourself rather than hiring a professional website designer. However, if you don’t have the best eye for design, a good feel for it, or the time to invest, it’s never a bad idea to get a professional to help out.
+Designing your own website is perhaps the most reasonable thing to DIY. With so many template-based and drag-and-drop website tools out there, it’s become more of the norm to do it yourself rather than hiring a professional website designer. However, if you don’t have the best eye for design, a good feel for it, or the time to invest, it’s never a bad idea to get a professional to help out.
 
 For those who want to go the DIY route, here are some of my favorite tools, and some recommended by friends and colleagues:
 
-* [Squarespace](https://squarespace.com){:target="_blank"}: This one is kind of a given, and I actually wrote about it in my [previous blog post](https://medium.com/the-new-distributed-workforce/8-tools-for-growing-your-remote-business-76b8d7530c07){:target="_blank"}. Squarespace offers a lot of nice templates to choose from that can be customized to create sleek professional websites, portfolio pages, and blogs. That said, it tends to be expensive, and I’ve sometimes found it frustrating getting the customizations just right. However, it has served me well for my business site, seafoam.media, although I’m keen to try newer website design tools as well…
-* [WebFlow](https://webflow.com/){:target="_blank"}: This was introduced to me recently by a colleague who used it to build several impressive landing pages. It claims to provide “the power to design, build, and launch responsive websites visually while writing clean, semantic code for you” and users can get started with free templates. It also has a great CMS similar to Medium for creating beautiful blogs. My colleague used it to create his site [RideWithSurf.com](https://ridewithsurf.com/){:target="_blank"}, which he reports took him about 16 hours end-to-end, and that “learning was cake” with its visual builder. Personally, I can’t wait to try it. Here is a great video that demonstrates its power:
+* [Squarespace](https://squarespace.com){:target="_blank"}: This one is kind of a given, and I actually wrote about it in [my previous blog post](https://medium.com/the-new-distributed-workforce/8-tools-for-growing-your-remote-business-76b8d7530c07){:target="_blank"}. Squarespace offers a lot of nice templates to choose from that can be customized to create sleek professional websites, portfolio pages, and blogs. That said, it tends to be expensive, and I’ve sometimes found it frustrating getting the customizations just right. However, it has served me well for my business site, [seafoam.media](https://seafoam.media){:target="_blank"}, although I’m keen to try newer website design offerings as well…
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yiPJ3r7Xy1Y
-" target="_blank"><img src="http://img.youtube.com/vi/yiPJ3r7Xy1Y/0.jpg" 
-alt="WebFlow Demo" border="10" /></a>
+* [WebFlow](https://webflow.com/){:target="_blank"}: This was introduced to me recently by a colleague who used it to build several impressive landing pages. It claims to provide “the power to design, build, and launch responsive websites visually while writing clean, semantic code for you” and users can get started with free templates. It also has a great CMS similar to Medium for creating beautiful blogs. My colleague used it to create his site [RideWithSurf.com](https://ridewithsurf.com){:target="_blank"}, which he reports took him about 16 hours end-to-end, and that “learning was cake” with its visual builder. Personally, I can’t wait to try it. Here is a great video that demonstrates its power:
 
-* [Figma](https://figma.com){:target="_blank"}: Figma is another drag-and-drop design tool that allows you to build responsive website designs. You can export them as HTML/CSS or use their easy hosting tool. It is free to use for teams of up to two people and also offers premium options. While Figma seems a lot like WebFlow, it is specifically geared for design **collaboration** amongst teams and with clients, and beyond websites, you can also use it for designing, prototyping, and testing UI for apps. Because it is browser-based software that is so versatile and collaborative, it’s been called the “Google Drive of design tools.” Before you get started, check out a few tutorials to set yourself up for success:
+ <iframe src="https://medium.com/media/5ca79a71883a6250323b5277f4242aff" frameborder=0></iframe>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jk1T0CdLxwU
-" target="_blank"><img src="http://img.youtube.com/vi/jk1T0CdLxwU/0.jpg" 
-alt="Figma Demo" border="10" /></a>
+* [Figma](https://www.figma.com/){:target="_blank"}: Figma is another drag-and-drop design tool that allows you to build responsive website designs. You can export them as HTML/CSS or use their easy hosting tool. It is free to use for teams of up to two people and also offers premium options. While Figma seems a lot like WebFlow, it is specifically geared for design **collaboration** amongst teams and with clients, and beyond websites, you can also use it for designing, prototyping, and testing UI for apps. Because it is browser-based software that is so versatile and collaborative, it’s been called the “Google Drive of design tools.” Before you get started, check out a few tutorials to set yourself up for success:
 
-# Decks, Infographics, Social Assets, and More…
+ <iframe src="https://medium.com/media/f61d8116607808ff9f77382750400c0e" frameborder=0></iframe>
 
-Finally, I’d like to get to what inspired me to create this post--creating slide decks for new projects, as well as infographics for my company.
+# Decks, Infographics, Social Assets, & More…
+
+Finally, I’d like to get to what inspired me to create this post--creating slide decks for and infographics for new projects.
 
 Slide deck presentations are necessary when presenting new ideas to investors. While you can put together decent decks in Powerpoint or Google Slides, a sleek, high-end presentation can increase your ability to be taken seriously and earn funding.
-When I was searching for a slide deck builder tool with royalty-free images to use, I came across Visme:
 
-Source: Visme.co
+When I was searching for a slide deck builder tool with royalty-free images to use, I came across [Visme](https://visme.co){:target="_blank"}:
+
+![Source: [Visme.co](https://visme.co)](https://cdn-images-1.medium.com/max/2000/1*VPA7yjgbI8mXMxeELVWMFQ.png)
+
 Visme is extremely versatile in that you can use it to create pretty much any design asset with ease — their primary categories are Presentations, Infographics, Documents, Printables, Web Graphics, Social Graphics, and they also offer a blank canvas.
 
+![](https://cdn-images-1.medium.com/max/2254/1*_0RpvppCwZQfOfcQt-gsww.png)
+
 For my slide deck, I worked off a variety of their slide templates as well as templates for charts and graphs to visualize the numbers and business opportunity. I also loved exploring their vast library of royalty-free images and icons, which made the presentation come to life.
+
 I also love using Visme for infographics. Infographics are a very powerful marketing and brand-building tool for any company because they allow you to express information and ideas visually and are very shareable.
+
 Here’s an example of an infographic I made using Visme — it took about 4–5 hours to perfect, and was admittedly a bit frustrating for me trying to get it right, but I’m happy with the final product and I’m sure subsequent attempts will be easier:
 
-Sea Foam whitepaper infographic, created by me in Visme
+![[Sea Foam Media & Tech](https://seafoam.media){:target="_blank"} whitepaper infographic, created by me in [Visme](https://visme.co){:target="_blank"}](https://cdn-images-1.medium.com/max/2000/1*Lbel37yZ32vxuuFfrxO8iw.jpeg)
+
 I highly recommend outlining your infographic content on paper before getting started on the design, if you care about your sanity (and a good result).
 
-I outlined my infographic in Goodnotes on my iPad Pro — LOVE this tool
-Again, when designing something using a Visme template you’ll want to customize it as much as possible. It should also match the brand colors, fonts, and other styles you laid out in your style guide. The great thing is that it is versatile enough to design things that feel uniquely yours.
-You can start by using Visme’s free templates to try it out, though you’ll probably want to upgrade to their $15/mo option to get the most out of it (that’s the plan I’m currently on).
-While Visme is my design tool of choice right now, there are lots of browser-based design tools on the market with similar offerings. These include:
-Canva: Yes, Canva again! As I mentioned, not only do they offer logo templates but have options for decks, business cards, and more.
-Venngage: Venngage is a versatile infographic builder tool that is free to get started with their basic templates.
-SlidesCarnival: SlidesCarnival isn’t design software itself but is a marketplace for slide deck/presentation themes that can be used with Google Slides, Powerpoint, and Canva. Used with Google Slides, these templates are a great free option for entrepreneurs on a tight budget.
-To Recap
-The New Distributed Workforce and the move toward remote work and business is opening up doors for entrepreneurs all over the world. This shift in the workforce is particularly impactful for women and disenfranchised groups who historically have not had the capital necessary to start their own businesses. With the ability to start remote, online businesses, overhead costs are reduced dramatically, allowing entrepreneurs to start businesses on the side of their full-time jobs or simply get started without the need for tens or hundreds of thousands of dollars in start-up capital.
-Of course, every business needs to think about its brand, as this can make or break success. This is why these design tools and strategies are so powerful for new business owners who don’t need to pay thousands to get their project off on the right foot. When your business has grown, you should be ready to invest in a pro — if you’re looking for an agency to help, don’t hesitate to get in touch with my team at Sea Foam Media & Technology.
-Call For Submissions!
-If you’re a woman who has started a remote business or works as a freelancer or remotely for a company, I’d love to include your story in The New Distributed Workforce book! If you’re interested, please fill out our interview form. In the meantime, please continue to follow along as I share more tips and inspiration for taking advantage of the new workforce and changing business landscape of the 2020s, and share your favorite design tools in the comments.
+![I outlined my infographic in Goodnotes on my iPad Pro — LOVE this tool](https://cdn-images-1.medium.com/max/7080/1*d-5IKuawxH171dCDU4E2zw.jpeg)
 
+Again, when designing something using a Visme template you’ll want to customize it as much as possible. It should also match the brand colors, fonts, and other styles you laid out in your style guide. The great thing is that it is versatile enough to design things that feel uniquely yours.
+
+You can start by using Visme’s free templates to try it out, though you’ll probably want to upgrade to their $15/mo option to get the most out of it (that’s the plan I’m currently on).
+
+While Visme is my design tool of choice right now, there are lots of browser-based design tools on the market with similar offerings. These include:
+
+* [Canva](https://canva.com){:target="_blank"}: Yes, Canva again! As I mentioned, not only do they offer logo templates but have options for decks, business cards, and more.
+
+* [Venngage](https://venngage.com/){:target="_blank"}: Venngage is a versatile infographic builder tool that is free to get started with their basic templates.
+
+* [SlidesCarnival](https://www.slidescarnival.com/){:target="_blank"}: SlidesCarnival isn’t design software itself but is a marketplace for slide deck/presentation themes that can be used with Google Slides, Powerpoint, and Canva. Used with Google Slides, these templates are a great free option for entrepreneurs on a tight budget.
+
+# To Recap
+
+The New Distributed Workforce and the move toward remote work and business is opening up doors for entrepreneurs all over the world. This shift in the workforce is particularly impactful for women and disenfranchised groups who historically have not had the capital necessary to start their own businesses. With the ability to start remote, online businesses, overhead costs are reduced dramatically, allowing entrepreneurs to start businesses on the side of their full-time jobs or simply get started without the need for tens or hundreds of thousands of dollars in start-up capital.
+
+Of course, every business needs to think about its brand, as this can make or break success. This is why these design tools and strategies are so powerful for new business owners who don’t need to pay thousands to get their project off on the right foot. When your business has grown, you should be ready to invest in a pro — if you’re looking for an agency to help, don’t hesitate to get in touch with my team at [Sea Foam Media & Tech](https://seafoam.media){:target="_blank"}.
