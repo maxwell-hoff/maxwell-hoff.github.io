@@ -4,7 +4,7 @@ title: Pitch Deck 101--A Foolproof Formula for Any Business (With Template)
 date: 2019-08-23 01:00:00 +0300
 description: A simple pitch deck framework and template for attracting serious investors. # Add post description (optional)
 img: pitchdeckhelp.jpg # Add image post (optional)
-tags: [pitch deck, fundraising, entrepreneurship] # add tag
+tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
 ---
 Over the past several years, I have been consulting and building pitch decks for startups across Silicon Valley, New York, China, and all over the world, and have seen good companies live or die based on the quality of their investor decks and presentations.
 
@@ -14,9 +14,11 @@ My upcoming book, *The New Distributed Workforce* (2020), is all about opportuni
 
 To simplify this part of the process, I put together a pitch deck framework and template that any business can follow, based on my own experiences and industry standards for attracting serious investors.
 
-**Get the Template Here (Google Slides)(https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
+**Get the Template Here on Google Slides(https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
 
 If you’re looking for professional pitch deck help rather than going the DIY route, you can contact me directly at payne@rhiannon.io to discuss your project.
+
+*This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/pitch-deck-101-a-foolproof-formula-for-any-business-with-template-7bd6a88dcb8?source=friends_link&sk=3c1c6b2975412c6bd7d12608dc282f9b){:target="_blank"}--be sure to follow and clap!*
 
 # Before You Start
 
@@ -58,11 +60,15 @@ This slide will act as your hook, helping the investor decide whether or not the
 
 Check out this example from TheFacebook.com’s pitch deck from 2004:
 
-![](https://cdn-images-1.medium.com/max/2000/0*-BDWYcYlA7pxCOfY)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*-BDWYcYlA7pxCOfY">
+</p>
 
 And here’s an example from one of Youtube’s early pitch decks:
 
-![](https://cdn-images-1.medium.com/max/2000/0*YeYGfujE1_LBvsyw)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*YeYGfujE1_LBvsyw">
+</p>
 
 ## Slide 3: Problem
 
@@ -70,15 +76,21 @@ What problem does your company solve? Keep this slide human-centric, not technic
 
 I like this example from the much-celebrated [AirBed&Breakfast pitch deck](https://www.slideshare.net/ryangum/airbnb-pitch-deck-from-2008){:target="_blank"} from 2008:
 
-![](https://cdn-images-1.medium.com/max/2000/0*wpniayRL6tq-WWg9)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*wpniayRL6tq-WWg9">
+</p>
 
 Here’s an example from Youtube:
 
-![](https://cdn-images-1.medium.com/max/2000/0*l9e0sX7isWd9_iM-)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*l9e0sX7isWd9_iM-">
+</p>
 
 And here’s an example from [LinkedIn’s Series B pitch deck](http://www.slideshare.net/webjoe/linkedin-deck-27367069){:target="_blank"} from 2004:
 
-![](https://cdn-images-1.medium.com/max/2000/0*mFP5ruAX3NBr6CTU)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*mFP5ruAX3NBr6CTU">
+</p>
 
 ## Slide 4: Solution
 
@@ -86,11 +98,15 @@ How is your company solving the problem(s) you described? This slide should thor
 
 Here’s how AirBed&Breakfast, now Airbnb, described their solution:
 
-![](https://cdn-images-1.medium.com/max/2000/0*cAm8z2KlxPdD0uVR)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*cAm8z2KlxPdD0uVR">
+</p>
 
 And here’s how Youtube articulated their solution:
 
-![](https://cdn-images-1.medium.com/max/2000/0*Xy-ewRwVT2Ln6gLz)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*Xy-ewRwVT2Ln6gLz">
+</p>
 
 ## Slide 5: Demo
 
@@ -98,7 +114,9 @@ You can use this slide to share a product demo video, mockups, screenshots, pict
 
 Here’s an example from Canvas’s pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*bUMp50LWitLRnumN)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*bUMp50LWitLRnumN">
+</p>
 
 ## Slide 6: Market Potential
 
@@ -110,11 +128,15 @@ As Mark Cuban has famously said on Shark Tank, you never want to go into an inve
 
 Here’s another example from LinkedIn’s early pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*DkZ2EDfhwhuFdb3D)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*DkZ2EDfhwhuFdb3D">
+</p>
 
 And here’s another example from Canvas, which raised $9M with their deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*74jYMRxkDqD8kDQK)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*74jYMRxkDqD8kDQK">
+</p>
 
 ## Slide 7: Business Model
 
@@ -124,11 +146,15 @@ For examples of great business models, I love this guide from [Board of Innovati
 
 Here’s an example from one of FourSquare’s early pitch decks:
 
-![](https://cdn-images-1.medium.com/max/2000/0*yGaspOr8mBSSQV7c)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*yGaspOr8mBSSQV7c">
+</p>
 
 And here’s an example from Mint:
 
-![](https://cdn-images-1.medium.com/max/2000/0*aCFFxL8ycMc8QNIP)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*aCFFxL8ycMc8QNIP">
+</p>
 
 ## Slide 8: Traction
 
@@ -136,7 +162,9 @@ What kind of traction does your company have today? This could mean revenue, use
 
 Here’s an example from one of [SEOMoz’s early pitch decks](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011/9-Organic_Marketing_is_UnderInvestedbr_Organic){:target="_blank"}:
 
-![](https://cdn-images-1.medium.com/max/2000/0*r_f1TxVTlru7HSd2)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*r_f1TxVTlru7HSd2">
+</p>
 
 If you don’t have a huge subscriber base or any revenue yet, that’s okay. Figure out what you *do* have that will show investors that there’s interest from your market. If nothing, that’s something to start working on before your next pitch.
 
@@ -148,7 +176,9 @@ There are several ways you can format your Competition slide, but I particularly
 
 Here’s an example from [Front’s Series A pitch deck](https://www.slideshare.net/AlexanderJarvis/front-seriesa-pitch-deck-startup){:target="_blank"}:
 
-![](https://cdn-images-1.medium.com/max/2000/0*A1ydbbnN5wPckah0)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*A1ydbbnN5wPckah0">
+</p>
 
 ## Slide 10: Unfair Advantage
 
@@ -158,7 +188,9 @@ On this slide, you can list any proprietary technology, patents, unique expertis
 
 Here’s another example from Front’s pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*GQ5d1XQSCE-6remk)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*GQ5d1XQSCE-6remk">
+</p>
 
 ## Slide 11: Go-to-Market Plan
 
@@ -168,7 +200,9 @@ A good place to start is sharing your user acquisition channels, cost, and conve
 
 Here’s an example from [AppVirality](https://www.appvirality.com/){:target="_blank"}’s pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*fYy9dnb4p_fJnHyT)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*fYy9dnb4p_fJnHyT">
+</p>
 
 ## Slide 12: Team
 
@@ -176,11 +210,15 @@ This is an easy one — who’s on your management team? Why are they uniquely q
 
 This example from LinkedIn’s Series B deck highlights notable companies that the leadership has previously worked for:
 
-![](https://cdn-images-1.medium.com/max/2000/0*lE7BE0m8SPtdd2st)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*lE7BE0m8SPtdd2st">
+</p>
 
 And here’s a similar example from Square’s early pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*TmPN90SOS5eIpaLs)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*TmPN90SOS5eIpaLs">
+</p>
 
 ## Slide 13: Milestones / Road Map
 
@@ -188,11 +226,15 @@ What’s next for the company? How will you spend the money you raise? What’s 
 
 Here’s another example from Front’s pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*3SwM4s_cUCSGn6zG)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*3SwM4s_cUCSGn6zG">
+</p>
 
 And here’s an example from [Swipes](http://swipesapp.com/){:target="_blank"}’s pitch deck:
 
-![](https://cdn-images-1.medium.com/max/2000/0*p9_N4WD5WWY2Z4m2)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/2000/0*p9_N4WD5WWY2Z4m2">
+</p>
 
 ## Slide 14: Asking For / Thank You
 
@@ -223,3 +265,5 @@ For more resources and information on raising money for your startup, I highly r
 * [Data Driven Investor](https://medium.com/datadriveninvestor){:target="_blank"} blog on Medium (see [Startups and Investors Seek the Right Fit](https://www.datadriveninvestor.com/2019/06/03/startups-and-investors-seek-the-right-fit/){:target="_blank"} by Jim Katzaman)
 
 * Indie Hackers [podcast](https://www.indiehackers.com/podcast){:target="_blank"} and [community](https://www.indiehackers.com/){:target="_blank"} (inspiration for bootstrapping instead of raising)
+
+*This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/pitch-deck-101-a-foolproof-formula-for-any-business-with-template-7bd6a88dcb8?source=friends_link&sk=3c1c6b2975412c6bd7d12608dc282f9b){:target="_blank"}--be sure to follow and clap!*
