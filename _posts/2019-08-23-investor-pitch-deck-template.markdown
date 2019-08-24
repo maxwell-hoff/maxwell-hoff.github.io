@@ -14,7 +14,7 @@ My upcoming book, *The New Distributed Workforce* (2020), is all about opportuni
 
 To simplify this part of the process, I put together a pitch deck framework and template that any business can follow, based on my own experiences and industry standards for attracting serious investors.
 
-**Get the Template Here on Google Slides(https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
+**[Get the Template Here on Google Slides](https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
 
 If you’re looking for professional pitch deck help rather than going the DIY route, you can contact me directly at payne@rhiannon.io to discuss your project.
 
@@ -42,7 +42,7 @@ Now that you’re ready, let’s dive into the template! I will walk through eac
 
 I created this simple template based on a generic Google Slides template and modified it for content. Once your story and content have been perfected, you will want to give it a clean, unique design, which I’ll go over at the end.
 
-**Get the Template Here (Google Slides)(https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
+**[Get the Template Here (Google Slides)](https://docs.google.com/presentation/d/1FxLZGV_wSNMqIq-kpwM5T7XX7Fjvvw_Sj5J5676ialY/edit?usp=sharing){:target="_blank"}**
 
 To edit the template, you can make a copy of the Google Slides doc or download it as a PowerPoint file.
 
