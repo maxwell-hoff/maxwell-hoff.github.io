@@ -10,7 +10,7 @@ With stay-at-home orders increasing across the US and many people out of work or
 
 I’ve been working remotely since 2015 and I am currently writing a book on The New Distributed Workforce, where I discuss opportunities for women to build flexible, remote careers. A big part of this is exploring what kinds of jobs can be done remotely and where people can find legitimate remote jobs and freelance work.
 
-**Due to COVID19, a lot of digital jobs that were previously done in-office will be performed remotely for the foreseeable future. If your priority is simply securing a paycheck during this time, apply to **everything** relevant that can be done from home for now, understanding your remote life might only be temporary until the world starts transitioning back to the office.
+Due to COVID19, a lot of digital jobs that were previously done in-office will be performed remotely for the foreseeable future. If your priority is simply securing a paycheck during this time, apply to **everything** relevant that can be done from home for now, understanding your remote life might only be temporary until the world starts transitioning back to the office.
 
 However, this list focuses on where you can find remote *specific* jobs — pandemic or no!
 
@@ -130,7 +130,7 @@ A question that a lot of people are asking right now is what kind of work can be
 
 * Web Development
 
-**If you have questions about how any of the above jobs can be done remotely, **please tweet me @rhiannon_io and I’ll try my best to personally connect you with someone who has been working remotely in that field!
+If you have questions about how any of the above jobs can be done remotely, please tweet me @rhiannon_io and I’ll try my best to personally connect you with someone who has been working remotely in that field!
 
 ## Avoiding Remote Job Scams
 
