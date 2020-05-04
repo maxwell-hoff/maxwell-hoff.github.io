@@ -10,7 +10,7 @@ How would your life change if you had a few extra hours each day to focus on you
 
 As the ability to work completely online has become more and more accessible, remote work advocates have been [asking](https://static1.squarespace.com/static/5a7cd54f80bd5eef27e9fe5b/t/5c13ad318a922d781ced24a5/1544793410946/SFM-Presentation-v3.pdf){:target="_blank"} workers and employers to consider these questions for the better part of this century.
 
-Per a 2019 survey, [81%](https://www.owllabs.com/state-of-remote-work/2019){:target="_blank"} of employees who work on-site said that the ability to work remotely would make them happier, and in a separate survey, [62%](https://www.citrix.com/content/dam/citrix/en_us/documents/other/remote-work-the-talent-crunch.pdf){target="_blank"} of US office workers said that they believed they *could* do their jobs at home at least a few days per week if given the opportunity.
+Per a 2019 survey, [81%](https://www.owllabs.com/state-of-remote-work/2019){:target="_blank"} of employees who work on-site said that the ability to work remotely would make them happier, and in a separate survey, [62%](https://www.citrix.com/content/dam/citrix/en_us/documents/other/remote-work-the-talent-crunch.pdf){:target="_blank"} of US office workers said that they believed they *could* do their jobs at home at least a few days per week if given the opportunity.
 
 Companies that have already moved their teams to remote work have seen [numerous benefits](https://www.forbes.com/sites/laurelfarrer/2020/02/12/top-5-benefits-of-remote-work-for-companies/#6730d97416c8){:target="_blank"}, from massive cost-savings to increased productivity and employee retention. However, despite these benefits and an overall increase in [remote work acceptance](https://buffer.com/state-of-remote-work-2019#){:target="_blank"}, most companies have remained resistant, particularly those rooted in more traditional industries and corporate environments.
 
@@ -82,4 +82,4 @@ Companies have already been forced to give remote work a try during this unprece
 
 It’s time for us to enter the future of work.
 
-This article was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/we-could-have-been-working-remotely-this-whole-time-7663c40ca722){:target="_blank"}--be sure to follow and clap if you enjoyed.
+This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/we-could-have-been-working-remotely-this-whole-time-7663c40ca722){:target="_blank"}--be sure to follow and clap!
