@@ -62,7 +62,7 @@ For Anita, a web designer and developer in Los Angeles, being able to work from 
 
 Having options that work for individual workers and offering them choice must be part of a new set of standards, or Remote Work Bill of Rights, that we create and petition companies to uphold once the COVID-19 crisis has dissipated.
 
-### What should we be fighting for?
+## What should we be fighting for?
 
 COVID-19 has shown that new standards for office workers can improve the lives of workers, reduce the strain on our environment, and will provide many benefits to businesses. I propose that workers and remote work advocates fight for these rights as a baseline:
 
@@ -80,6 +80,6 @@ The argument to companies is simple: When employees are empowered to live more f
 
 Companies have already been forced to give remote work a try during this unprecedented period, and the world won’t simply go back to “normal” once COVID-19 has ended. Fear of change can no longer be used as an excuse to resist what is right. Change is upon us, impacting how all of us live and work across every industry globally.
 
-It’s time for us to enter the future of work.
+**It’s time for us to enter the future of work.**
 
 This blog was originally posted on [Medium](https://medium.com/the-new-distributed-workforce/we-could-have-been-working-remotely-this-whole-time-7663c40ca722){:target="_blank"}--be sure to follow and clap!
