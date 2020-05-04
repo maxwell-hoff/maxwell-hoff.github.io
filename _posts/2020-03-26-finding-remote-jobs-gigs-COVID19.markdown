@@ -54,7 +54,7 @@ However, this list focuses on where you can find remote *specific* jobs — pand
 
 * Include any links to your portfolio, blog, or personal case studies, which can further add to your credibility as a candidate. If you don’t have these things, quarantine can be a great time to start putting them together.
 
-* **If you’ve never had a digital job before, **consider personal projects and other things you’ve worked on or contributed to that demonstrate digital skillsets, like managing a Facebook community. Express familiarity with tools like Google Drive, Slack, Zoom, and others that the company may be using. Also consider what parts of your work experience can easily translate to the digital world, like customer service.
+* If you’ve never had a digital job before, consider personal projects and other things you’ve worked on or contributed to that demonstrate digital skillsets, like managing a Facebook community. Express familiarity with tools like Google Drive, Slack, Zoom, and others that the company may be using. Also consider what parts of your work experience can easily translate to the digital world, like customer service.
 
 ## Where to Find Remote Gigs
 
