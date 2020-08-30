@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Could Have Been Working Remotely This Whole Time
+title: What COVID-19 Exposed About Remote Work
 date: 2020-04-29 01:00:00 +0300
 description: Is it time to fight for remote work & greater flexibilty as a worker's right? # Add post description (optional)
 img: remote-work-covid.jpeg # Add image post (optional)
