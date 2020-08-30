@@ -3,7 +3,7 @@ layout: post
 title: Why I’m Launching the “Women Going Remote” Community (& What You Can Gain)
 date: 2020-08-30 01:00:00 +0300
 description: Find expert guidance, feedback & networking in our community based on "The Remote Work Era" book. # Add post description (optional)
-img: Blogging Tips LinkedIn Post Header (1).png # Add image post (optional)
+img: Women Going Remote community.png # Add image post (optional)
 tags: [remote, remote work, remote jobs, work from home, future of work, the remote work era, women going remote, community] # add tag
 ---
 It’s been almost two years since I decided to start writing a book about remote work for women.
