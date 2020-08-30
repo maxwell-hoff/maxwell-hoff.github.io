@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Remote Jobs & Gigs During COVID19
+title: Finding Remote Jobs & Gigs During COVID-19
 date: 2020-03-26 01:00:00 +0300
 description: Where to find remote jobs and how to stand out, even if you've never had a digital job before. # Add post description (optional)
 img: Finding-Remote-Jobs-and-Gigs.png # Add image post (optional)
@@ -8,9 +8,9 @@ tags: [remote, remote work, remote jobs, freelancing, job search, work from home
 ---
 With stay-at-home orders increasing across the US and many people out of work or feeling insecure about their jobs, there is an urgent need to find work that can be done completely online. This is true for people who are used to working remotely and those who have never worked remotely or done any kind of digital work.
 
-I’ve been working remotely since 2015 and I am currently writing a book on The New Distributed Workforce, where I discuss opportunities for women to build flexible, remote careers. A big part of this is exploring what kinds of jobs can be done remotely and where people can find legitimate remote jobs and freelance work.
+I’ve been working remotely since 2015 and I am currently writing a book on The Remote Work Era, where I discuss opportunities for women to build flexible, remote careers. A big part of this is exploring what kinds of jobs can be done remotely and where people can find legitimate remote jobs and freelance work.
 
-Due to COVID19, a lot of digital jobs that were previously done in-office will be performed remotely for the foreseeable future. If your priority is simply securing a paycheck during this time, apply to **everything** relevant that can be done from home for now, understanding your remote life might only be temporary until the world starts transitioning back to the office.
+Due to COVID-19, a lot of digital jobs that were previously done in-office will be performed remotely for the foreseeable future. If your priority is simply securing a paycheck during this time, apply to **everything** relevant that can be done from home for now, understanding your remote life might only be temporary until the world starts transitioning back to the office.
 
 However, this list focuses on where you can find remote *specific* jobs — pandemic or no!
 
