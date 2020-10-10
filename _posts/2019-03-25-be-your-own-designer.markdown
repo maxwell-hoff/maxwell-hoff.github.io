@@ -3,7 +3,7 @@ layout: post
 title: Be Your Own Designer--Building Your Company's Brand on a Budget
 date: 2019-03-25 01:00:00 +0300
 description: How to design your own logos, slide decks, infographics, websites, and more...
-img: Be Your Own Designer.png # Add image post (optional)
+img: beyourowndesignerblog.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [design, graphic design, branding]
 ---
