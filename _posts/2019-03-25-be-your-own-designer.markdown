@@ -3,14 +3,14 @@ layout: post
 title: Be Your Own Designer--Building Your Company's Brand on a Budget
 date: 2019-03-25 01:00:00 +0300
 description: How to design your own logos, slide decks, infographics, websites, and more...
-img: beyourowndesigner.png # Add image post (optional)
+img: Be Your Own Designer.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [design, graphic design, branding]
 ---
 One of the first, and perhaps most exciting, things about starting a new company or project is building your brand.
 It doesn’t matter what you’re offering — if you’re presenting something to the public or investors, your brand image can make or break your ability to generate sales or be taken seriously.
 
-My book, "The New Distributed Workforce" (to be published in 2020), is all about helping women take advantage of the shift toward remote career and business opportunities in the 2020s. A big part of this new business landscape is the ability to start businesses with significantly less overhead than was ever before possible, opening up doors for women, minorities, and people in emerging economies to become successful entrepreneurs online.
+My book, *The Remote Work Era* (to be published in 2020), is all about helping women take advantage of the shift toward remote career and business opportunities in the 2020s. A big part of this new business landscape is the ability to start businesses with significantly less overhead than was ever before possible, opening up doors for women, minorities, and people in emerging economies to become successful entrepreneurs online.
 
 Last month I blogged about the [best business and project management tools](https://medium.com/the-new-distributed-workforce/8-tools-for-growing-your-remote-business-76b8d7530c07){:target="_blank"} for online companies, and along this vein, I was inspired to discuss the best strategies and tools for DIY branding and design work, which empower entrepreneurs to be their own designer--at least until they can afford to work with a pro.
 
@@ -222,6 +222,6 @@ While Visme is my design tool of choice right now, there are lots of browser-bas
 
 # To Recap
 
-The New Distributed Workforce and the move toward remote work and business is opening up doors for entrepreneurs all over the world. This shift in the workforce is particularly impactful for women and disenfranchised groups who historically have not had the capital necessary to start their own businesses. With the ability to start remote, online businesses, overhead costs are reduced dramatically, allowing entrepreneurs to start businesses on the side of their full-time jobs or simply get started without the need for tens or hundreds of thousands of dollars in start-up capital.
+The Remote Work Era and the move toward remote work and business is opening up doors for entrepreneurs all over the world. This shift in the workforce is particularly impactful for women and disenfranchised groups who historically have not had the capital necessary to start their own businesses. With the ability to start remote, online businesses, overhead costs are reduced dramatically, allowing entrepreneurs to start businesses on the side of their full-time jobs or simply get started without the need for tens or hundreds of thousands of dollars in start-up capital.
 
 Of course, every business needs to think about its brand, as this can make or break success. This is why these design tools and strategies are so powerful for new business owners who don’t need to pay thousands to get their project off on the right foot. When your business has grown, you should be ready to invest in a pro — if you’re looking for an agency to help, don’t hesitate to get in touch with my team at [Sea Foam Media & Tech](https://seafoam.media){:target="_blank"}.
