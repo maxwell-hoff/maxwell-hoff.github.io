@@ -9,7 +9,7 @@ site-twitter: "https://twitter.com/rhiannon_io" #if your site has a twitter acco
 # Author Settings
 author: Rhiannon Payne # add your name
 author-img: rhiannon payne headshot.jpg # add your photo
-about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adventurer. In 2017 I founded Sea Foam Media & Tech to help startups tell their stories & build useful products. I am passionate about "The Remote Work Era," with a book to be published in 2020. # add description
+about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adventurer. In 2017 I founded Sea Foam Media & Tech to help startups tell their stories & build useful products. I am passionate about <a href="https://remoteworkera.com">The Remote Work Era</a>, with a book to be published in 2020. # add description
 social-twitter: rhiannon_io # add your Twitter handle
 social-facebook: rhiannonmarypayne # add your Facebook handle
 social-github: rhiannon-io # ig handle
