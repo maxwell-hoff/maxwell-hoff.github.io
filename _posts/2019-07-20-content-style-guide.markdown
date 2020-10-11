@@ -3,7 +3,7 @@ layout: post
 title: How to Create a Content Style Guide for Your Business
 date: 2019-07-20 01:00:00 +0300
 description: No matter what your business is, you will likely be communicating with the public in some form, and will need a content style guide...
-img: CreateAContentStyleGuide.jpg # Add image post (optional)
+img: CreateAContentStyleGuide.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [content marketing, content style guide, branding]
 ---
@@ -158,7 +158,7 @@ Once you have created your content style guide and gotten feedback from all nece
 
 Also remember that your content style guide is a living, breathing document, and as the company and brand evolves, your style guide should too! Alert teams to important changes as they happen.
 
-Evangelizing your content style guide is something I will cover in more detail in a subsequent blog post (will update here when published) and in my book, “The New Distributed Workforce,” which will be published in 2020.
+Evangelizing your content style guide is something I will cover in more detail in a subsequent blog post (will update here when published) and in my book, *The Remote Work Era,* which will be published in 2020.
 
 What is most important to you when creating a content style guide? Do you find having this documentation to be critical when leading a distributed team? Share with me and let’s chat!
 
