@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pitch Deck 101--A Foolproof Formula for Any Business (With Template)
+title: Pitch Deck 101 - A Foolproof Template For Any Startup
 date: 2019-08-23 01:00:00 +0300
 description: A simple pitch deck framework and template for attracting serious investors. # Add post description (optional)
 img: Pitchdeck101.png # Add image post (optional)
@@ -8,9 +8,9 @@ tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
 ---
 Over the past several years, I have been consulting and building pitch decks for startups across Silicon Valley, New York, China, and all over the world, and have seen good companies live or die based on the quality of their investor decks and presentations.
 
-Unsurprisingly, pitch deck help is the number one request I get from my clients at [Sea Foam Media & Tech](https://seafoam.media){:target="_blank"}, as well as from friends looking for advice on how to raise money for their great ideas.
+Unsurprisingly, pitch deck help is the number one request I get from my clients at [Sea Foam Media & Technology](https://seafoam.media){:target="_blank"}, as well as from friends looking for advice on how to raise money for their great ideas.
 
-My upcoming book, *The New Distributed Workforce* (2020), is all about opportunities for women to start their own businesses online and take advantage of the changing work and business landscape of the 2020s. For entrepreneurs who are building a product or starting a company that’s cost-intensive early on, raising money from investors can be key to turning these dreams into reality, which necessitates a pitch deck that’s straightforward, substantive, and ready to “wow.”
+My upcoming book, *The Remote Work Era* (2020), is all about opportunities for women to start their own businesses online and take advantage of the changing work and business landscape of the 2020s. For entrepreneurs who are building a product or starting a company that’s cost-intensive early on, raising money from investors can be key to turning these dreams into reality, which necessitates a pitch deck that’s straightforward, substantive, and ready to “wow.”
 
 To simplify this part of the process, I put together a pitch deck framework and template that any business can follow, based on my own experiences and industry standards for attracting serious investors.
 
