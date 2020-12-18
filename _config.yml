@@ -1,23 +1,23 @@
-title: Rhiannon Payne
+title: Max Hoff
 description: > # this means to ignore newlines until "baseurl:"
-  Rhiannon Payne is an SF-based entrepreneur, startup consultant, writer, & speaker. Currently writing a book titled "The Remote Work Era."
+  Hey! I'm a Chicago-based analytics professional at JPMorgan Chase with a passion for over-analyzing everything. Currently pursuing a Master's in Information and Data Science at UC Berkeley. Take a look at some of the projects I've worked on in my free time!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rhiannon-io.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://maxwell-hoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: "https://twitter.com/rhiannon_io" #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Rhiannon Payne # add your name
-author-img: Rhiannon Payne - Author Photo.png # add your photo
-about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adventurer. In 2017 I founded <a href="https://seafoam.media" target="_blank">Sea Foam Media & Technology</a> to help startups tell their stories & build exciting products. I am also passionate about <a href="https://remoteworkera.com" target="_blank">The Remote Work Era</a>, with a book to be published in 2020. # add description
+author: Max Hoff # add your name
+author-img: maxhoff_headshot_skiing.PNG # add your photo
+about-author: Hey! I'm a Chicago-based analytics professional at JPMorgan Chase with a passion for over-analyzing everything. Currently pursuing a Master's in Information and Data Science at UC Berkeley. Take a look at some of the projects I've worked on in my free time!
 social-twitter: rhiannon_io # add your Twitter handle
-social-facebook: rhiannonmarypayne # add your Facebook handle
-social-github: rhiannon-io # ig handle
-social-linkedin: rhipayne # add your Linkedin handle
-social-email: payne@rhiannon.io # add your Email address
+social-facebook: max.hoff.313 add your Facebook handle
+social-github: maxwell-hoff # ig handle
+social-linkedin: max-hoff-47645771 # add your Linkedin handle
+social-email: maxwell.hoff@berkeley.edu # add your Email address
 
 # Disqus
-discus-identifier: Rhiannon Payne # add your discus identifier
+discus-identifier: Max Hoff # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
