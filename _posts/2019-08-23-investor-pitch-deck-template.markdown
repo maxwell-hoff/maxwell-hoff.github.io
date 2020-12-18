@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pitch Deck 101 - A Foolproof Template For Any Startup
+title: aa
 date: 2019-08-23 01:00:00 +0300
-description: A simple pitch deck framework and template for attracting serious investors. # Add post description (optional)
+description: aa
 img: Pitchdeck101.png # Add image post (optional)
 tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
 ---
