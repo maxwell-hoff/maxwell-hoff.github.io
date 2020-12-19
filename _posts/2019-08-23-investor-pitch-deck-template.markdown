@@ -38,7 +38,7 @@ multi_union_all <- function(mypath){
 combined_files_all_years <- multi_union_all("/Users/maxhoff/Downloads/Adjusted-OPS-Plus-main/data/play_by_play")
 ```
 
-```{r}
+```r
 ##add in row number and game number
 
 combined_files_all_years <- combined_files_all_years %>%
@@ -47,7 +47,7 @@ combined_files_all_years <- combined_files_all_years %>%
   mutate(game_number = cumsum(game_number))
 ```
 
-```{r}
+```r
 ##create separate dataframe for play log
 
 plays_all_years <- combined_files_all_years %>%
@@ -63,13 +63,13 @@ plays_all_years <- plays_all_years %>%
              value_6 = "ab_result")
 ```
 
-```{r}
+```r
 ##read play key in order to translate play descriptions into stats
 
 play_key <- unique(read_csv("/Users/maxhoff/Downloads/Adjusted-OPS-Plus-main/data/play_key_v2.csv"))
 ```
 
-```{r}
+```r
 ##merge with play log
 
 play_key <- play_key %>%
@@ -78,7 +78,7 @@ play_key <- play_key %>%
 plays_all_years <- merge(plays_all_years, play_key, by.x = "ab_result", by.y = "play", all.x = TRUE)
 ```
 
-```{r}
+```r
 ##create game info log and merge with play log
 
 game_info <- combined_files_all_years %>%
@@ -92,13 +92,13 @@ plays_all_years <- plays_all_years %>%
   mutate(season = str_sub(date, end = 4))
 ```
 
-```{r}
+```r
 ##create TB field
 
 plays_all_years$TB <- plays_all_years$`1B` + (plays_all_years$`2B` * 2) + (plays_all_years$`3B` * 3) + (plays_all_years$HR * 4)
 ```
 
-```{r}
+```r
 ##load rosters in order to get handedness
 
 folder_path = "/Users/maxhoff/Downloads/Adjusted-OPS-Plus-main/data/rosters_all_years"
@@ -125,7 +125,7 @@ for (i in file_list){
 rosters_all_years <- distinct(rosters_all_years)
 ```
 
-```{r}
+```r
 ##reformat rosters df and merge with play log
 
 rosters_all_years <- rosters_all_years %>%
@@ -144,7 +144,7 @@ plays_all_years <- merge(plays_all_years,
                          all.x = TRUE)
 ```
 
-```{r}
+```r
 ##roll up play log by team by home and away games and by handedness in order to start creating ball park factors
 ##calculate slugging and obp
 ##difference in OPS between home and away fields by handedness will be basis of ball park factor calcs
@@ -180,7 +180,7 @@ bpf_ops <- full_join(away_stats,
 rm(home_stats, away_stats)
 ```
 
-```{r}
+```r
 ##calc difference
 ##difference is ball park factor, i.e., how much to increase/decrease stats for each player
 
