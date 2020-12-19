@@ -190,3 +190,59 @@ bpf_ops <- bpf_ops %>%
          OPS_adj = (SLG_home + OBP_home) - (SLG_away + OBP_home)) %>%
   select(-SLG_away, -OBP_away, -SLG_home, -OBP_home)
 ```
+
+```r
+##part 2
+##create summary stats at the player level for the 2019 season
+
+##home stats df
+stats_by_player <- plays_all_years %>%
+  group_by(batter_id, last_name, first_name, `home/away`, season, team, bats) %>% 
+  summarize(ABs = sum(AB, na.rm = TRUE), 
+            SLG = (sum(TB, na.rm = TRUE) / sum(AB, na.rm = TRUE)),
+            OBP = ((sum(H, na.rm = TRUE) + sum(BB, na.rm = TRUE) + sum(HBP, na.rm = TRUE))
+                   / (sum(AB, na.rm = TRUE) + sum(BB, na.rm = TRUE) + sum(HBP, na.rm = TRUE) + sum(SF, na.rm = TRUE))
+                   )
+            ) %>%
+  filter(ABs > 0) %>%
+  gather(stat, value, -(batter_id:bats)) %>%
+  mutate(`home/away` = factor(ifelse(`home/away` == 0, "away", "home"))) %>%
+  unite(temp, stat, `home/away`) %>%
+  spread(temp, value) %>%
+  mutate_all(~replace(., is.na(.), 0))
+```
+
+```r
+##merge with bpf
+
+stats_by_player <- left_join(stats_by_player, bpf_ops) %>%
+  mutate(total_ABs = ABs_home + ABs_away,
+         OPS_home = (OBP_home + SLG_home), 
+         OPS_away = (OBP_away + SLG_away),
+         adj_OBP_home = (OBP_home - OBP_adj),
+         adj_SLG_home = (SLG_home - SLG_adj),
+         adj_OPS_home = (OPS_home - OPS_adj),
+         OBP = ((ABs_away / (ABs_away + ABs_home)) * OBP_away) + ((ABs_home / (ABs_away + ABs_home)) * OBP_home),
+         SLG = ((ABs_away / (ABs_away + ABs_home)) * SLG_away) + ((ABs_home / (ABs_away + ABs_home)) * SLG_home),
+         OPS = ((ABs_away / (ABs_away + ABs_home)) * OPS_away) + ((ABs_home / (ABs_away + ABs_home)) * OPS_home),
+         adj_OBP = ((ABs_away / (ABs_away + ABs_home)) * OBP_away) + ((ABs_home / (ABs_away + ABs_home)) * adj_OBP_home),
+         adj_SLG = ((ABs_away / (ABs_away + ABs_home)) * SLG_away) + ((ABs_home / (ABs_away + ABs_home)) * adj_SLG_home),
+         adj_OPS = ((ABs_away / (ABs_away + ABs_home)) * OPS_away) + ((ABs_home / (ABs_away + ABs_home)) * adj_OPS_home),
+         OBP_dif = adj_OBP - OBP,
+         SLG_dif = adj_SLG - SLG,
+         OPS_dif = adj_OPS - OPS
+         ) %>%
+  select(total_ABs, OBP, SLG, OPS, adj_OBP, adj_SLG, adj_OPS, OBP_dif, SLG_dif, OPS_dif) %>%
+  dplyr::mutate(OPS_rank = dense_rank(desc(OPS)),
+         adj_OPS_rank = dense_rank(desc(adj_OPS)),
+         .before = "total_ABs")
+```
+
+```r
+##EDA
+
+stats_by_player %>% 
+  filter(total_ABs > 500,
+         season == '2019') %>%
+  arrange(desc(OPS))
+```
