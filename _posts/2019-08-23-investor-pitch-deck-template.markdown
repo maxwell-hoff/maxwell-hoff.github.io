@@ -1,8 +1,8 @@
 ---
 layout: post
-title: aa
+title: Adjusted OPS Plus Workbook
 date: 2019-08-23 01:00:00 +0300
-description: aa
+description: Workbook compiles data from every play since 2008, create ball park factors, and create player stats for each season. Stats include traditional stats as well as newly created adjusted stats.
 img: Pitchdeck101.png # Add image post (optional)
 tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
 ---
