@@ -3,7 +3,7 @@ layout: post
 title: Walmart Sales Forecasting Kaggle Challenge
 date: 2020-12-15 01:00:00 +0300
 description: I examine the calculations of ball park adjustments from the major stats websites. I believe ball park adjustments are often under-examined and methodologies need to be challeneged further. 
-img: forecasting_thumbnail_6.png # Add image post (optional)
+img: forecasting_thumbnail_7.png # Add image post (optional)
 tags: [remote, remote work, remote jobs, work from home, future of work, the remote work era, women going remote, community] # add tag
 ---
 It’s been almost two years since I decided to start writing a book about remote work for women.
