@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do you compare the value of a hitter? Challenging methodologies for ball park adjustments
+title: Challenging methodologies for ball park adjustments
 date: 2020-08-30 01:00:00 +0300
 description: I examine the calculations of ball park adjustments from the major stats websites. I believe ball park adjustments are often under-examined and methodologies need to be challeneged further. 
 img: adjusted_ops_plus_thumbnail_6.png # Add image post (optional)
