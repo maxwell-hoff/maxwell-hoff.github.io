@@ -6,7 +6,7 @@ description: Workbook compiles data from every play since 2008, create ball park
 img: adjusted_ops_plus_thumbnail_10.png # Add image post (optional)
 tags: [adjusted ops plus, ops plus, ball park factors, handedness ball park factors, on base plus slugging] # add tag
 ---
-The following workbook is used to measure the effect that a certain ball park's has on players performance. Ball park adjustments are common in standard MLB stats, but their methodologies used to calculate the adjustments are rarely pressure tested. This workbook examines several different methodologies and the affect that these methodologies has. 
+The following workbook is used to measure the effect that ball parks have on player performance. Ball park adjustments are common in standard MLB stats, but their methodologies used to calculate the adjustments are rarely pressure tested. This workbook examines several different methodologies and the affect that these methodologies has. See full article https://maxwell-hoff.github.io/challenging_methodologies_for_ball_park_adjustments/ for high-level analysis.
 
 ## Table of Contents
 1. Consolidate play by play data (source: https://www.retrosheet.org/game.htm)
