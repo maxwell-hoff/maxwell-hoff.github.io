@@ -45,7 +45,7 @@ for d in range(1942,1970):
 ```
 
 ## 2. Downcasting
-Downcasting is a method that reduces memory by converting each integer field to the smallest possible integer type
+Downcasting is a method that reduces memory by converting each integer field to the smallest possible integer type. In this instance, it reduces memory of df by 75%.
 
 ```python
 def downcast(df):
