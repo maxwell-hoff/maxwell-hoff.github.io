@@ -379,3 +379,182 @@ fig.show()
 ```
 
 ## 5. Feature Engineering
+
+
+Label encoding:
+1. Remove unwanted data to create space in RAM for further processing.
+2. Label Encode categorical features.(I had converted already converted categorical variable to category type. So, I can simply use their codes instead of using LableEncoder)
+3. Remove date as its features are already present.
+4. Remove unecessary features.
+
+```python
+#Store the categories along with their codes
+d_id = dict(zip(df.id.cat.codes, df.id))
+d_item_id = dict(zip(df.item_id.cat.codes, df.item_id))
+d_dept_id = dict(zip(df.dept_id.cat.codes, df.dept_id))
+d_cat_id = dict(zip(df.cat_id.cat.codes, df.cat_id))
+d_store_id = dict(zip(df.store_id.cat.codes, df.store_id))
+d_state_id = dict(zip(df.state_id.cat.codes, df.state_id))
+```
+
+```python
+#1
+del group, group_price_cat, group_price_store, group_state, group_state_store, cal_data
+gc.collect();
+
+#2
+df.d = df['d'].apply(lambda x: x.split('_')[1]).astype(np.int16)
+cols = df.dtypes.index.tolist()
+types = df.dtypes.values.tolist()
+for i,type in enumerate(types):
+    if type.name == 'category':
+        df[cols[i]] = df[cols[i]].cat.codes
+        
+#3
+df.drop('date',axis=1,inplace=True)
+
+
+#4
+df.drop(['revenue', 'sell_price'], axis = 1, inplace = True)
+```
+Introduce lags
+```python
+#lags = [7,14,28,364,728,1092,1456]
+lags = [7,14,28]
+for lag in lags:
+    df['sold_lag_'+str(lag)] = df.groupby(['id', 'item_id', 'dept_id', 'cat_id', 'store_id', 'state_id'],as_index=False)['sold'].shift(lag).astype(np.float16)
+```
+
+Mean enconding
+```python
+df['iteam_sold_avg'] = df.groupby('item_id')['sold'].transform('mean').astype(np.float16)
+df['state_sold_avg'] = df.groupby('state_id')['sold'].transform('mean').astype(np.float16)
+df['store_sold_avg'] = df.groupby('store_id')['sold'].transform('mean').astype(np.float16)
+df['cat_sold_avg'] = df.groupby('cat_id')['sold'].transform('mean').astype(np.float16)
+df['dept_sold_avg'] = df.groupby('dept_id')['sold'].transform('mean').astype(np.float16)
+df['cat_dept_sold_avg'] = df.groupby(['cat_id','dept_id'])['sold'].transform('mean').astype(np.float16)
+df['store_item_sold_avg'] = df.groupby(['store_id','item_id'])['sold'].transform('mean').astype(np.float16)
+df['cat_item_sold_avg'] = df.groupby(['cat_id','item_id'])['sold'].transform('mean').astype(np.float16)
+df['dept_item_sold_avg'] = df.groupby(['dept_id','item_id'])['sold'].transform('mean').astype(np.float16)
+df['state_store_sold_avg'] = df.groupby(['state_id','store_id'])['sold'].transform('mean').astype(np.float16)
+df['state_store_cat_sold_avg'] = df.groupby(['state_id','store_id','cat_id'])['sold'].transform('mean').astype(np.float16)
+df['store_cat_dept_sold_avg'] = df.groupby(['store_id','cat_id','dept_id'])['sold'].transform('mean').astype(np.float16)
+```
+
+```python
+##calc rolling window and expanding window stats
+
+df['rolling_sold_mean'] = df.groupby(['id', 'item_id', 'dept_id', 'cat_id', 'store_id', 'state_id'])['sold'].transform(lambda x: x.rolling(window=7).mean()).astype(np.float16)
+#df['expanding_sold_mean'] = df.groupby(['id', 'item_id', 'dept_id', 'cat_id', 'store_id', 'state_id'])['sold'].transform(lambda x: x.expanding(2).mean()).astype(np.float16)
+```
+
+Create trending: field that is a positive value if rolling average is greater than entire duration average, else negative
+```python
+df['daily_avg_sold'] = df.groupby(['id', 'item_id', 'dept_id', 'cat_id', 'store_id', 'state_id','d'])['sold'].transform('mean').astype(np.float16)
+df['avg_sold'] = df.groupby(['id', 'item_id', 'dept_id', 'cat_id', 'store_id', 'state_id'])['sold'].transform('mean').astype(np.float16)
+df['selling_trend'] = (df['daily_avg_sold'] - df['avg_sold']).astype(np.float16)
+df.drop(['daily_avg_sold','avg_sold'],axis=1,inplace=True)
+```
+
+## 6. Modeling and Prediction
+
+```python
+##Save data in separate df in order to train separately
+##cut off first 28 days because of lags
+
+df = df[df['d']>=28]
+```
+
+```python
+df.to_pickle('data.pkl')
+del df
+gc.collect();
+```
+
+```python
+data = pd.read_pickle('data.pkl')
+valid = data[(data['d']>=1914) & (data['d']<1942)][['id','d','sold']]
+test = data[data['d']>=1942][['id','d','sold']]
+valid_preds = valid['sold']
+eval_preds = test['sold']
+```
+
+```python
+#Get the store ids
+stores = sales.store_id.cat.codes.unique().tolist()
+for store in stores:
+    df = data[data['store_id']==store]
+    
+    #Split the data
+    X_train, y_train = df[df['d']<1914].drop('sold',axis=1), df[df['d']<1914]['sold']
+    X_valid, y_valid = df[(df['d']>=1914) & (df['d']<1942)].drop('sold',axis=1), df[(df['d']>=1914) & (df['d']<1942)]['sold']
+    X_test = df[df['d']>=1942].drop('sold',axis=1)
+    
+    #Train and validate
+    model = LGBMRegressor(
+        n_estimators=1000,
+        learning_rate=0.3,
+        subsample=0.8,
+        colsample_bytree=0.8,
+        max_depth=8,
+        num_leaves=50,
+        min_child_weight=300
+    )
+    print('*****Prediction for Store: {}*****'.format(d_store_id[store]))
+    model.fit(X_train, y_train, eval_set=[(X_train,y_train),(X_valid,y_valid)],
+             eval_metric='rmse', verbose=20, early_stopping_rounds=20)
+    valid_preds[X_valid.index] = model.predict(X_valid)
+    eval_preds[X_test.index] = model.predict(X_test)
+    filename = 'model'+str(d_store_id[store])+'.pkl'
+    # save model
+    joblib.dump(model, filename)
+    del model, X_train, y_train, X_valid, y_valid
+    gc.collect()
+```
+
+Plot feature importance
+```python
+feature_importance_df = pd.DataFrame()
+features = [f for f in data.columns if f != 'sold']
+for filename in os.listdir('/kaggle/working/'):
+    if 'model' in filename:
+        # load model
+        model = joblib.load(filename)
+        store_importance_df = pd.DataFrame()
+        store_importance_df["feature"] = features
+        store_importance_df["importance"] = model.feature_importances_
+        store_importance_df["store"] = filename[5:9]
+        feature_importance_df = pd.concat([feature_importance_df, store_importance_df], axis=0)
+    
+def display_importances(feature_importance_df_):
+    cols = feature_importance_df_[["feature", "importance"]].groupby("feature").mean().sort_values(by="importance", ascending=False)[:20].index
+    best_features = feature_importance_df_.loc[feature_importance_df_.feature.isin(cols)]
+    plt.figure(figsize=(8, 8))
+    sns.barplot(x="importance", y="feature", data=best_features.sort_values(by="importance", ascending=False))
+    plt.title('LightGBM Features (averaged over store predictions)')
+    plt.tight_layout()
+    
+display_importances(feature_importance_df)
+```
+
+Make submission
+```python
+valid['sold'] = valid_preds
+validation = valid[['id','d','sold']]
+validation = pd.pivot(validation, index='id', columns='d', values='sold').reset_index()
+validation.columns=['id'] + ['F' + str(i + 1) for i in range(28)]
+validation.id = validation.id.map(d_id).str.replace('evaluation','validation')
+
+#Get the evaluation results
+test['sold'] = eval_preds
+evaluation = test[['id','d','sold']]
+evaluation = pd.pivot(evaluation, index='id', columns='d', values='sold').reset_index()
+evaluation.columns=['id'] + ['F' + str(i + 1) for i in range(28)]
+#Remap the category id to their respective categories
+evaluation.id = evaluation.id.map(d_id)
+
+#Prepare the submission
+submit = pd.concat([validation,evaluation]).reset_index(drop=True)
+submit.to_csv('submission.csv',index=False)
+```
+
