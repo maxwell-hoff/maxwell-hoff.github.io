@@ -13,6 +13,7 @@ The following workbook is used to measure the effect that ball parks have on pla
 2. Create ball park factors
 3. Create player yearly player stats (with and without adjustments)
 
+
 ```r
 #load packages
 
