@@ -9,7 +9,7 @@ tags: [adjusted ops plus, ops plus, ball park factors, handedness ball park fact
 The following workbook is used to measure the effect that ball parks have on player performance. Ball park adjustments are common in standard MLB stats, but their methodologies used to calculate the adjustments are rarely pressure tested. This workbook examines several different methodologies and the affect that these methodologies has. See [full article](https://maxwell-hoff.github.io/challenging_methodologies_for_ball_park_adjustments/) for high-level analysis.
 
 ## Table of Contents
-1. Consolidate play by play data (source: https://www.retrosheet.org/game.htm)
+1. Consolidate play by play data ([source:](https://www.retrosheet.org/game.htm))
 2. Create ball park factors
 3. Create player yearly player stats (with and without adjustments)
 
