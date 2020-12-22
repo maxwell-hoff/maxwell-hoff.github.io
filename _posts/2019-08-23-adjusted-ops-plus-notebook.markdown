@@ -6,28 +6,24 @@ description: Workbook compiles data from every play since 2008, create ball park
 img: adjusted_ops_plus_thumbnail_10.png # Add image post (optional)
 tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
 ---
----
-title: "Adjusted OPS+"
-author: "Max Hoff"
-date: "12/07/2020"
----
+The following workbook is used to measure the effect that a certain ball park's has on players performance. Ball park adjustments are common in standard MLB stats, but their methodologies used to calculate the adjustments are rarely pressure tested. This workbook examines several different methodologies and the affect that these methodologies has. 
+
+## Table of Contents
+1. Consolidate play by play data (source: https://www.retrosheet.org/game.htm)
+2. Create ball park factors
+3. Create player yearly player stats (with and without adjustments)
 
 ```r
 #load packages
 
 options("scipen"=100, "digits"=4)
 
-library(readr)
-library(stringr)
-library(tidyr)
-library(data.table)
-library(dplyr)
-library(tibble)
-library(lubridate)
-library(ggplot2)
+libraries <- c("readr", "stingr", "tidyr", "data.table", "dplyr", "tibble", "lubridate", "ggplot2")
+
+sapply(libraries, require, character.only = TRUE)
 ```
 
-
+## 1. Consolidate and organize retrosheet play by play data
 ```r
 ##combine all files into one dataframe
 
@@ -94,7 +90,7 @@ plays_all_years <- plays_all_years %>%
 ```
 
 ```r
-##create TB field
+##create TB (total bases) field
 
 plays_all_years$TB <- plays_all_years$`1B` + (plays_all_years$`2B` * 2) + (plays_all_years$`3B` * 3) + (plays_all_years$HR * 4)
 ```
@@ -145,6 +141,8 @@ plays_all_years <- merge(plays_all_years,
                          all.x = TRUE)
 ```
 
+## 2. Create ball park adjustments (bpf)
+
 ```r
 ##roll up play log by team by home and away games and by handedness in order to start creating ball park factors
 ##calculate slugging and obp
@@ -192,8 +190,8 @@ bpf_ops <- bpf_ops %>%
   select(-SLG_away, -OBP_away, -SLG_home, -OBP_home)
 ```
 
+## 3. Create yearly player summary stats 
 ```r
-##part 2
 ##create summary stats at the player level for the 2019 season
 
 ##home stats df
