@@ -2,10 +2,20 @@
 layout: post
 title: Walmart Sales Forecasting Kaggle Challenge
 date: 2020-12-15 01:00:00 +0300
-description: I examine the calculations of ball park adjustments from the major stats websites. I believe ball park adjustments are often under-examined and methodologies need to be challeneged further. 
+description: My final submission notebook for the M5 Forecasting - Accuracy competition hosted on Kaggle.
 img: forecasting_thumbnail_9.png # Add image post (optional)
-tags: [remote, remote work, remote jobs, work from home, future of work, the remote work era, women going remote, community] # add tag
+tags: [time-series forecasting, M5, LGBM, kaggle] # add tag
 ---
+The following workbook was my final submission for the [M5 forecasting competition](https://www.kaggle.com/c/m5-forecasting-accuracy) hosted on Kaggle. The competition was a basic time-series forecasting problem in which you are to predict item level sales for 9 Walmart stores across 3 states for 28 days, given 4 years of data. This was my first Kaggle competition and I finished in the 58th percentile leveraging an LGBM model and fairly simple feature engineering.
+
+## Table of Contents:
+1. Setup
+2. Downcasting
+3. Melt
+4. EDA
+5. Feature Engineering
+6. Modeling and Prediction
+
 
 ```python
 import os
