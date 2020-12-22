@@ -25,8 +25,9 @@ import joblib
 pd.set_option('display.max_columns', None)
 pd.set_option("max_rows", None)
 ```
-#### 1. Setup
-descr
+
+## 1. Setup
+
 ```python
 sales = pd.read_csv('/kaggle/input/m5-forecasting-accuracy/sales_train_evaluation.csv')
 sales.name = 'sales'
