@@ -4,7 +4,7 @@ title: Adjusted OPS Plus Workbook
 date: 2019-08-23 01:00:00 +0300
 description: Workbook compiles data from every play since 2008, create ball park factors, and create player stats for each season. Stats include traditional stats as well as newly created adjusted stats.
 img: adjusted_ops_plus_thumbnail_10.png # Add image post (optional)
-tags: [pitch deck, fundraising, entrepreneurship, startup, startups] # add tag
+tags: [adjusted ops plus, ops plus, ball park factors, handedness ball park factors, on base plus slugging] # add tag
 ---
 The following workbook is used to measure the effect that a certain ball park's has on players performance. Ball park adjustments are common in standard MLB stats, but their methodologies used to calculate the adjustments are rarely pressure tested. This workbook examines several different methodologies and the affect that these methodologies has. 
 
